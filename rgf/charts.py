@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -24,8 +26,14 @@ def generate_charts(base: pd.DataFrame, indicators: pd.DataFrame) -> None:
     latest = base[(base["ano"] == available_year) & base["DTP_RCL"].notna()].sort_values("DTP_RCL")
 
     fig, ax = plt.subplots(figsize=(10, 9))
-    ax.barh(latest["UF"], latest["DTP_RCL"], color=COLORS["navy"])
+    status_colors = {
+        "confortável": COLORS["good"], "atenção": COLORS["mid"], "alerta": "#E47B25",
+        "acima do limite prudencial": COLORS["bad"], "acima do limite máximo": "#761B18",
+    }
+    bars = ax.barh(latest["UF"], latest["DTP_RCL"], color=latest["situacao_fiscal"].map(status_colors).fillna(COLORS["navy"]))
+    ax.bar_label(bars, fmt="%.2f", padding=3, fontsize=7)
     ax.invert_yaxis(); ax.set_xlabel("DTP / RCL ajustada (%)"); ax.set_title(f"Ranking dos estados — {available_year} (menor é melhor)")
+    ax.set_xlim(0, latest["DTP_RCL"].max() * 1.08)
     _save(fig, "01_ranking_ultimo_ano.png")
 
     fig, ax = plt.subplots(figsize=(13, 8))
@@ -36,12 +44,14 @@ def generate_charts(base: pd.DataFrame, indicators: pd.DataFrame) -> None:
     ax.set_xlim(base["ano"].min(), base["ano"].max() + .8); ax.set_ylabel("DTP / RCL ajustada (%)"); ax.set_title("Evolução do comprometimento da RCL — todos os estados")
     _save(fig, "02_evolucao_todos_estados.png")
 
-    selected = pd.concat([indicators.nsmallest(5, "ranking_historico"), indicators.nlargest(5, "ranking_historico")])["UF"].unique()
+    best_ufs = indicators.nsmallest(5, "ranking_historico")["UF"].tolist()
+    worst_ufs = indicators.nlargest(5, "ranking_historico")["UF"].tolist()
+    selected = best_ufs + worst_ufs
+    palette = list(plt.cm.Greens(np.linspace(.45, .9, 5))) + list(plt.cm.Reds(np.linspace(.45, .9, 5)))
     fig, ax = plt.subplots(figsize=(12, 7))
-    for uf in selected:
+    for uf, color in zip(selected, palette):
         group = base[(base["UF"] == uf) & base["DTP_RCL"].notna()].sort_values("ano")
-        is_best = uf in set(indicators.nsmallest(5, "ranking_historico")["UF"])
-        ax.plot(group["ano"], group["DTP_RCL"], marker="o", markersize=3, label=uf, color=COLORS["good"] if is_best else COLORS["bad"], alpha=.7)
+        ax.plot(group["ano"], group["DTP_RCL"], marker="o", markersize=3, label=uf, color=color, linewidth=1.8)
     ax.set_ylabel("DTP / RCL ajustada (%)"); ax.set_title("Evolução dos 5 melhores e 5 piores no score fiscal"); ax.legend(ncol=5)
     _save(fig, "03_evolucao_5_melhores_5_piores.png")
 
@@ -69,8 +79,4 @@ def generate_charts(base: pd.DataFrame, indicators: pd.DataFrame) -> None:
     comparison = base.assign(periodo_analise=np.where(base["ano"] <= 2019, "2015–2019", "2020–2025")).pivot_table(index="UF", columns="periodo_analise", values="DTP_RCL", aggfunc="mean").dropna()
     comparison = comparison.sort_values("2020–2025")
     y = np.arange(len(comparison)); fig, ax = plt.subplots(figsize=(11, 10))
-    ax.scatter(comparison["2015–2019"], y, label="2015–2019", color="#7A8EA3"); ax.scatter(comparison["2020–2025"], y, label="2020–2025", color=COLORS["navy"])
-    for i, row in enumerate(comparison.itertuples()): ax.plot([getattr(row, "_1"), getattr(row, "_2")], [i, i], color="#C7CDD3", zorder=0)
-    ax.set_yticks(y, comparison.index); ax.set_xlabel("Média DTP/RCL (%)"); ax.set_title("Comparação das médias: 2015–2019 × 2020–2025"); ax.legend()
-    _save(fig, "08_comparacao_periodos.png")
-
+    ax.scatter(comparison["2015–2019"], y, label="2015–2019", colo

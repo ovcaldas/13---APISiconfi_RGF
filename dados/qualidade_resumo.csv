@@ -1,0 +1,10 @@
+﻿verificacao,valor
+registros_brutos,45426
+duplicatas_exatas,0
+duplicatas_chave_negocio,0
+observacoes_UF_ano_esperadas,297
+observacoes_UF_ano_com_DTP_RCL,297
+observacoes_UF_ano_sem_DTP_RCL,0
+mapeamentos_ok,2019
+mapeamentos_ausentes,60
+mapeamentos_com_conflito,0

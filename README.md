@@ -10,6 +10,7 @@ Projeto Python para coletar, tratar e analisar o Anexo 01 do Relatório de Gest�
 - Denominador: RCL ajustada para cálculo dos limites da despesa com pessoal; a RCL sem ajustes também é preservada.
 - Ausências permanecem nulas. Nenhuma observação é fabricada ou substituída por zero.
 - Os percentuais e limites declarados no RGF têm prioridade. O cálculo `100 × DTP / RCL ajustada` é usado apenas quando o percentual não estiver disponível.
+- Situação fiscal: acima do máximo; acima do prudencial; alerta (acima do limite de alerta); atenção (metade superior da faixa imediatamente anterior ao alerta, usando a distância alerta–prudencial); confortável nos demais casos. Limites ausentes nunca são substituídos por parâmetros fixos.
 
 ## Score fiscal (0–100)
 
@@ -42,9 +43,9 @@ No VS Code, selecione o kernel `.venv` e abra os notebooks em `notebooks/`.
 - `dados/rgf_estados_2015_2025.xlsx`: abas analíticas solicitadas.
 - `dados/estrutura_chamada_teste.json` e `dados/amostra_chamada_teste.csv`: evidência da chamada exploratória.
 - `dados/auditoria_coleta.csv` e `dados/auditoria_mapeamento.csv`: falhas, ausências e rastreabilidade semântica.
+- `dados/qualidade_resumo.csv`, `estrutura_por_ano.csv`, `nomenclaturas_por_ano.csv`, `ausencias_por_ano.csv` e `relatorio_qualidade.txt`: diagnóstico de qualidade e mudanças do demonstrativo.
 - `dados/panorama_executivo.txt`: síntese executiva automática.
 - `graficos/`: oito visualizações em PNG.
 - `logs/coleta_rgf.log`: log detalhado de coleta.
 
 Fonte: [API SICONFI — Tesouro Nacional](https://apidatalake.tesouro.gov.br/docs/siconfi#/RGF/get_rgf).
-

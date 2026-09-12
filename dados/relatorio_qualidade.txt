@@ -1,0 +1,10 @@
+RELATÓRIO DE QUALIDADE — RGF ESTADOS 2015–2025
+
+Cobertura: 297 de 297 combinações UF/ano com DTP/RCL válido.
+Duplicatas exatas: 0.
+Duplicatas pela chave de negócio: 0.
+Mapeamentos ausentes: 60; conflitos: 0.
+
+Mudança estrutural: a mediana de códigos de conta distintos foi 16 em 2015–2017 e 30 em 2018–2025. Isso evidencia ampliação relevante do detalhamento a partir de 2018. O mapeamento usa conjuntamente código e descrição normalizados, e a fonte exata de cada indicador consta em auditoria_mapeamento.csv.
+
+Tratamento de ausências: nenhum nulo foi convertido em zero. A RCL ajustada ausente nos modelos antigos não invalida o percentual DTP/RCL quando ele é declarado pelo próprio RGF. Consulte ausencias_por_ano.csv para o detalhamento.

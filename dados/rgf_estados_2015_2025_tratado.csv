@@ -1,298 +1,298 @@
 ﻿ano,UF,nome_estado,regiao,populacao,periodo,poder,Receita_Corrente_Liquida,RCL_Ajustada,Despesa_Total_Pessoal,DTP_RCL,Limite_Alerta,Limite_Prudencial,Limite_Maximo,DTP_RCL_Calculado,fonte_DTP_RCL,Margem_Limite_Prudencial,Margem_Limite_Maximo,Variacao_Anual_DTP_RCL_pp,situacao_fiscal,ranking_ano
-2015,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2015,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2015,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2015,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2015,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2015,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2015,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2015,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2015,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2015,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2015,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2015,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2015,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2015,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2015,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2015,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2015,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2015,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2015,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2016,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2016,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2016,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2016,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2016,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2016,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2016,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2016,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2016,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2016,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2016,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2016,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2016,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2016,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2016,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2016,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2016,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2016,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2016,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2017,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2017,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2017,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2017,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2017,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2017,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2017,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2017,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2017,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2017,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2017,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2017,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2017,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2017,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2017,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2017,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2017,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2017,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2017,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2018,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2018,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2018,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2018,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2018,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2018,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2018,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2018,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2018,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2018,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2018,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2018,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2018,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2018,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2018,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2018,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2018,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2018,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2018,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2019,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2019,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2019,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2019,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2019,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2019,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2019,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2019,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2019,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2019,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2019,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2019,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2019,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2019,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2019,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2019,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2019,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2019,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2019,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2020,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2020,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2020,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2020,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2020,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2020,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2020,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2020,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2020,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2020,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2020,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2020,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2020,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2020,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2020,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2020,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2020,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2020,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2020,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2021,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2021,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2021,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2021,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2021,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2021,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2021,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2021,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2021,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2021,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2021,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2021,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2021,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2021,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2021,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2021,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2021,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2021,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2021,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2022,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2022,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2022,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2022,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2022,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2022,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2022,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2022,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2022,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2022,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2022,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2022,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2022,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2022,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2022,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2022,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2022,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2022,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2022,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2023,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2023,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2023,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2023,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2023,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2023,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2023,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2023,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2023,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2023,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2023,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2023,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2023,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2023,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2023,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2023,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2023,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2023,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2023,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2024,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2024,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2024,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2024,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2024,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2024,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2024,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2024,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2024,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2024,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2024,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2024,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2024,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2024,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2024,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2024,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2024,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2024,SP,São Paulo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2024,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
-2025,SP,São Paulo,Sudeste,10.0,3.0,Executivo,,200.0,80.0,39.5,44.1,46.55,49.0,40.0,percentual declarado no RGF,7.049999999999997,9.5,,confortável,1.0
-2025,AC,Acre,Norte,,,,,,,,,,,,,,,,sem dado,
-2025,AL,Alagoas,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,AM,Amazonas,Norte,,,,,,,,,,,,,,,,sem dado,
-2025,AP,Amapá,Norte,,,,,,,,,,,,,,,,sem dado,
-2025,BA,Bahia,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,CE,Ceará,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,DF,Distrito Federal,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2025,ES,Espírito Santo,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2025,GO,Goiás,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2025,MA,Maranhão,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,MG,Minas Gerais,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2025,MS,Mato Grosso do Sul,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2025,MT,Mato Grosso,Centro-Oeste,,,,,,,,,,,,,,,,sem dado,
-2025,PA,Pará,Norte,,,,,,,,,,,,,,,,sem dado,
-2025,PB,Paraíba,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,PE,Pernambuco,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,PI,Piauí,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,PR,Paraná,Sul,,,,,,,,,,,,,,,,sem dado,
-2025,RJ,Rio de Janeiro,Sudeste,,,,,,,,,,,,,,,,sem dado,
-2025,RN,Rio Grande do Norte,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,RO,Rondônia,Norte,,,,,,,,,,,,,,,,sem dado,
-2025,RR,Roraima,Norte,,,,,,,,,,,,,,,,sem dado,
-2025,RS,Rio Grande do Sul,Sul,,,,,,,,,,,,,,,,sem dado,
-2025,SC,Santa Catarina,Sul,,,,,,,,,,,,,,,,sem dado,
-2025,SE,Sergipe,Nordeste,,,,,,,,,,,,,,,,sem dado,
-2025,TO,Tocantins,Norte,,,,,,,,,,,,,,,,sem dado,
+2015,RJ,Rio de Janeiro,Sudeste,16461173,3,Executivo,51224316994.0,,17150989582.0,33.48,44.1,46.55,49.0,33.482124483980776,percentual declarado no RGF,13.07,15.520000000000003,,confortável,1.0
+2015,PI,Piauí,Nordeste,3194718,3,Executivo,6600087436.36,,2818051035.27,42.7,44.1,46.55,49.0,42.69717730927785,percentual declarado no RGF,3.8499999999999943,6.299999999999997,,confortável,2.0
+2015,MA,Maranhão,Nordeste,6850884,3,Executivo,10712347552.03,,4592592578.86,42.87,44.1,46.55,49.0,42.8719527307504,percentual declarado no RGF,3.6799999999999997,6.130000000000003,,confortável,3.0
+2015,ES,Espírito Santo,Sudeste,3885049,3,Executivo,11951594613.26,,5185589496.23,43.39,44.1,46.55,49.0,43.38826461262931,percentual declarado no RGF,3.1599999999999966,5.609999999999999,,atenção,4.0
+2015,AP,Amapá,Norte,750912,3,Executivo,3875537366.92,,1682615181.03,43.42,44.1,46.55,49.0,43.416306481576314,percentual declarado no RGF,3.1299999999999955,5.579999999999998,,atenção,5.0
+2015,RO,Rondônia,Norte,1748531,3,Executivo,5825194566.13,,2585909660.52,44.39,44.1,46.55,49.0,44.39181612156799,percentual declarado no RGF,2.1599999999999966,4.609999999999999,,alerta,6.0
+2015,MS,Mato Grosso do Sul,Centro-Oeste,2619657,3,Executivo,8321250479.18,,3813758133.58,45.83,44.1,46.55,49.0,45.83155071611086,percentual declarado no RGF,0.7199999999999989,3.1700000000000017,,alerta,7.0
+2015,CE,Ceará,Nordeste,8842791,3,Executivo,15176440113.0,,6970859881.39,45.93,43.74,46.17,48.6,45.932114708632,percentual declarado no RGF,0.240000000000002,2.6700000000000017,,alerta,8.0
+2015,PE,Pernambuco,Nordeste,9277727,3,Executivo,19648437023.39,,9075557365.35,46.19,44.1,46.55,49.0,46.1897165385024,percentual declarado no RGF,0.35999999999999943,2.8100000000000023,,alerta,9.0
+2015,PR,Paraná,Sul,11081692,3,Executivo,31876371512.27,,14736529305.18,46.23,44.1,46.55,49.0,46.230259612539484,percentual declarado no RGF,0.3200000000000003,2.770000000000003,,alerta,10.0
+2015,SP,São Paulo,Sudeste,44035304,3,Executivo,140398953319.01,,64974618721.82,46.28,44.1,46.55,49.0,46.2785634691925,percentual declarado no RGF,0.269999999999996,2.719999999999999,,alerta,11.0
+2015,DF,Distrito Federal,Centro-Oeste,2852372,3,Executivo,18461481002.45,,8635835809.85,46.78,44.1,46.55,49.0,46.77758955906056,percentual declarado no RGF,-0.23000000000000398,2.219999999999999,,acima do limite prudencial,12.0
+2015,RR,Roraima,Norte,496936,3,Executivo,2824662615.35,,1336251152.17,47.31,44.1,46.55,49.0,47.30657547943746,percentual declarado no RGF,-0.7600000000000051,1.6899999999999977,,acima do limite prudencial,13.0
+2015,PA,Pará,Norte,8104880,3,Executivo,16789901790.47,,7947028737.84,47.33,43.74,46.17,48.6,47.33219310639898,percentual declarado no RGF,-1.1599999999999966,1.2700000000000031,,acima do limite prudencial,14.0
+2015,BA,Bahia,Nordeste,15126371,3,Executivo,27207610584.58,,12952774613.36,47.61,,,,47.60717437164815,percentual declarado no RGF,,,,confortável,15.0
+2015,SE,Sergipe,Nordeste,2219574,3,Executivo,6353339374.91,,3037924179.5,47.82,44.1,46.55,49.0,47.816179810842144,percentual declarado no RGF,-1.2700000000000031,1.1799999999999997,,acima do limite prudencial,16.0
+2015,MG,Minas Gerais,Sudeste,20734097,3,Executivo,51643235767.49,,24740131048.1,47.91,44.1,46.55,49.0,47.90584997323927,percentual declarado no RGF,-1.3599999999999994,1.0900000000000034,,acima do limite prudencial,17.0
+2015,AM,Amazonas,Norte,3873743,3,Executivo,10998994388.61,,5277716373.1,47.98,44.1,46.55,49.0,47.98362638102021,percentual declarado no RGF,-1.4299999999999997,1.0200000000000031,,acima do limite prudencial,18.0
+2015,AL,Alagoas,Nordeste,3321730,3,Executivo,6328523887.74,,3059904482.77,48.35,44.1,46.55,49.0,48.35099838522902,percentual declarado no RGF,-1.8000000000000043,0.6499999999999986,,acima do limite prudencial,19.0
+2015,SC,Santa Catarina,Sul,6727148,3,Executivo,19409870961.23,,9384427017.17,48.35,44.1,46.55,49.0,48.348734702640755,percentual declarado no RGF,-1.8000000000000043,0.6499999999999986,,acima do limite prudencial,19.0
+2015,GO,Goiás,Centro-Oeste,6523222,3,Executivo,17361933085.28,,8409440060.13,48.44,43.74,46.17,48.6,48.436081505577235,percentual declarado no RGF,-2.269999999999996,0.1600000000000037,,acima do limite prudencial,21.0
+2015,AC,Acre,Norte,790101,3,Executivo,3949107687.38,,1927024332.54,48.8,44.1,46.55,49.0,48.79644935229576,percentual declarado no RGF,-2.25,0.20000000000000284,,acima do limite prudencial,22.0
+2015,RS,Rio Grande do Sul,Sul,11207274,3,Executivo,30139172170.57,,14821455670.43,49.18,44.1,46.55,49.0,49.176717882459656,percentual declarado no RGF,-2.6300000000000026,-0.17999999999999972,,acima do limite máximo,23.0
+2015,MT,Mato Grosso,Centro-Oeste,3224357,3,Executivo,11644432985.92,,5791517008.73,49.74,44.1,46.55,49.0,49.73635913172311,percentual declarado no RGF,-3.190000000000005,-0.740000000000002,,acima do limite máximo,24.0
+2015,PB,Paraíba,Nordeste,3943885,3,Executivo,7973372465.12,,4106920912.18,51.51,44.1,46.55,49.0,51.5079526278996,percentual declarado no RGF,-4.960000000000001,-2.509999999999998,,acima do limite máximo,25.0
+2015,TO,Tocantins,Norte,1496880,3,Executivo,6304771944.72,,3296248868.83,52.28,44.1,46.55,49.0,52.281809678944526,percentual declarado no RGF,-5.730000000000004,-3.280000000000001,,acima do limite máximo,26.0
+2015,RN,Rio Grande do Norte,Nordeste,3408510,3,Executivo,7996956928.75,,4200948738.12,52.53,44.1,46.55,49.0,52.53184149356983,percentual declarado no RGF,-5.980000000000004,-3.530000000000001,,acima do limite máximo,27.0
+2016,AP,Amapá,Norte,766679,3,Executivo,4872773878.98,,1899031391.16,38.97,44.1,46.55,49.0,38.97228638808738,percentual declarado no RGF,7.579999999999998,10.030000000000001,-4.450000000000003,confortável,1.0
+2016,MA,Maranhão,Nordeste,6904241,3,Executivo,12480062588.49,,4864604143.54,38.98,44.1,46.55,49.0,38.97900438437291,percentual declarado no RGF,7.57,10.020000000000003,-3.8900000000000006,confortável,2.0
+2016,CE,Ceará,Nordeste,8904459,3,Executivo,17831937421.85,,7254728642.9,40.68,43.74,46.17,48.6,40.68390591148311,percentual declarado no RGF,5.490000000000002,7.920000000000002,-5.25,confortável,3.0
+2016,PI,Piauí,Nordeste,3204028,3,Executivo,7578979585.52,,3152876121.42,41.6,44.1,46.55,49.0,41.60027198705904,percentual declarado no RGF,4.949999999999996,7.399999999999999,-1.1000000000000014,confortável,4.0
+2016,RO,Rondônia,Norte,1768204,3,Executivo,6502106330.05,,2709777981.11,41.68,44.1,46.55,49.0,41.67538707551653,percentual declarado no RGF,4.869999999999997,7.32,-2.710000000000001,confortável,5.0
+2016,RR,Roraima,Norte,505665,3,Executivo,3376579222.11,,1441098733.09,42.68,44.1,46.55,49.0,42.679251345670124,percentual declarado no RGF,3.8699999999999974,6.32,-4.630000000000003,confortável,6.0
+2016,MS,Mato Grosso do Sul,Centro-Oeste,2651235,3,Executivo,9347981709.9,,4033286928.9,43.15,44.1,46.55,49.0,43.14607210483241,percentual declarado no RGF,3.3999999999999986,5.850000000000001,-2.6799999999999997,atenção,7.0
+2016,ES,Espírito Santo,Sudeste,3929911,3,Executivo,11884435326.99,,5149975222.8,43.33,44.1,46.55,49.0,43.333781379618536,percentual declarado no RGF,3.219999999999999,5.670000000000002,-0.060000000000002274,atenção,8.0
+2016,RS,Rio Grande do Sul,Sul,11247972,3,Executivo,34654897410.3,,15281205661.08,44.1,44.1,46.55,49.0,44.09537122605411,percentual declarado no RGF,2.4499999999999957,4.899999999999999,-5.079999999999998,atenção,9.0
+2016,PA,Pará,Norte,8175113,3,Executivo,17922201695.92,,7996754105.37,44.62,43.74,46.17,48.6,44.619261857712864,percentual declarado no RGF,1.5500000000000043,3.980000000000004,-2.710000000000001,alerta,10.0
+2016,AC,Acre,Norte,803513,3,Executivo,4442141070.9,,2008305920.02,45.21,44.1,46.55,49.0,45.21031385464549,percentual declarado no RGF,1.3399999999999963,3.789999999999999,-3.5899999999999963,alerta,11.0
+2016,MT,Mato Grosso,Centro-Oeste,3265486,3,Executivo,12522756874.44,,5675960966.95,45.33,44.1,46.55,49.0,45.325170997570936,percentual declarado no RGF,1.2199999999999989,3.6700000000000017,-4.410000000000004,alerta,12.0
+2016,PR,Paraná,Sul,11163018,3,Executivo,34135477821.98,,15492960855.23,45.39,44.1,46.55,49.0,45.38668225482992,percentual declarado no RGF,1.1599999999999966,3.6099999999999994,-0.8399999999999963,alerta,13.0
+2016,PE,Pernambuco,Nordeste,9345173,3,Executivo,20853041088.71,,9544323113.43,45.77,44.1,46.55,49.0,45.76945431041889,percentual declarado no RGF,0.779999999999994,3.229999999999997,-0.4199999999999946,alerta,14.0
+2016,AL,Alagoas,Nordeste,3340932,3,Executivo,7646527443.73,,3514782931.03,45.97,44.1,46.55,49.0,45.96574009437516,percentual declarado no RGF,0.5799999999999983,3.030000000000001,-2.3800000000000026,alerta,15.0
+2016,BA,Bahia,Nordeste,15203934,3,Executivo,28714179024.82,,13301226070.4,46.32,43.74,46.17,48.6,46.32284997214327,percentual declarado no RGF,-0.14999999999999858,2.280000000000001,-1.2899999999999991,acima do limite prudencial,16.0
+2016,SP,São Paulo,Sudeste,44396484,3,Executivo,140443287171.02,,65169972635.29,46.4,44.1,46.55,49.0,46.40305275390735,percentual declarado no RGF,0.14999999999999858,2.6000000000000014,0.11999999999999744,alerta,17.0
+2016,GO,Goiás,Centro-Oeste,6610681,3,Executivo,19279840731.6,,9010504549.5,46.74,43.74,46.17,48.6,46.73536817517182,percentual declarado no RGF,-0.5700000000000003,1.8599999999999994,-1.6999999999999957,acima do limite prudencial,18.0
+2016,DF,Distrito Federal,Centro-Oeste,2914830,3,Executivo,19881229932.9,,9309254282.16,46.82,44.1,46.55,49.0,46.82433789850593,percentual declarado no RGF,-0.2700000000000031,2.1799999999999997,0.03999999999999915,acima do limite prudencial,19.0
+2016,AM,Amazonas,Norte,3938336,3,Executivo,11395630934.0,,5380417767.55,47.21,44.1,46.55,49.0,47.21474219998638,percentual declarado no RGF,-0.6600000000000037,1.7899999999999991,-0.769999999999996,acima do limite prudencial,20.0
+2016,SE,Sergipe,Nordeste,2242937,3,Executivo,6787495872.54,,3204407820.94,47.21,44.1,46.55,49.0,47.210457009690295,percentual declarado no RGF,-0.6600000000000037,1.7899999999999991,-0.6099999999999994,acima do limite prudencial,20.0
+2016,SC,Santa Catarina,Sul,6819190,3,Executivo,20488858892.36,,9795671688.39,47.81,44.1,46.55,49.0,47.809747433238776,percentual declarado no RGF,-1.2600000000000051,1.1899999999999977,-0.5399999999999991,acima do limite prudencial,22.0
+2016,TO,Tocantins,Norte,1515126,3,Executivo,7293584929.36,,3525630539.15,48.34,44.1,46.55,49.0,48.33878776070368,percentual declarado no RGF,-1.7900000000000063,0.6599999999999966,-3.9399999999999977,acima do limite prudencial,23.0
+2016,PB,Paraíba,Nordeste,3972202,3,Executivo,8845649341.67,,4294997146.89,48.55,44.1,46.55,49.0,48.55491079278001,percentual declarado no RGF,-2.0,0.45000000000000284,-2.960000000000001,acima do limite prudencial,24.0
+2016,MG,Minas Gerais,Sudeste,20869101,3,Executivo,53731469131.32,,26484066519.93,49.29,44.1,46.55,49.0,49.28967502303501,percentual declarado no RGF,-2.740000000000002,-0.28999999999999915,1.3800000000000026,acima do limite máximo,25.0
+2016,RN,Rio Grande do Norte,Nordeste,3442175,3,Executivo,8611240172.02,,4647323626.53,53.97,44.1,46.55,49.0,53.96811067504861,percentual declarado no RGF,-7.420000000000002,-4.969999999999999,1.4399999999999977,acima do limite máximo,26.0
+2016,RJ,Rio de Janeiro,Sudeste,16550024,3,Executivo,46228984468.73,,28537870624.76,61.73,44.1,46.55,49.0,61.731554246153635,percentual declarado no RGF,-15.18,-12.729999999999997,28.25,acima do limite máximo,27.0
+2017,GO,Goiás,Centro-Oeste,6695855,3,Executivo,21033874951.29,21029956559.29,8265261451.87,39.3,43.74,46.17,48.6,39.302322991336915,percentual declarado no RGF,6.8700000000000045,9.300000000000004,-7.440000000000005,confortável,1.0
+2017,RN,Rio Grande do Norte,Nordeste,3474998,3,Executivo,8604895623.56,8604895623.56,3547948096.48,41.23,44.1,46.55,49.0,41.23173890413967,percentual declarado no RGF,5.32,7.770000000000003,-12.740000000000002,confortável,2.0
+2017,MA,Maranhão,Nordeste,6954036,3,Executivo,12536618595.33,12535768595.33,5187542638.45,41.38,44.1,46.55,49.0,41.38192723486086,percentual declarado no RGF,5.169999999999995,7.619999999999997,2.4000000000000057,confortável,3.0
+2017,CE,Ceará,Nordeste,8963663,3,Executivo,17779471739.21,17762569430.97,7539771749.3,42.45,44.1,46.55,49.0,42.447528656265234,percentual declarado no RGF,4.099999999999994,6.549999999999997,1.7700000000000031,confortável,4.0
+2017,AP,Amapá,Norte,782295,3,Executivo,4369061858.47,4369061858.47,1866731621.06,42.73,44.1,46.55,49.0,42.72614308357973,percentual declarado no RGF,3.8200000000000003,6.270000000000003,3.759999999999998,confortável,5.0
+2017,BA,Bahia,Nordeste,15276566,3,Executivo,29952763445.46,29927319695.46,12887973421.77,43.06,43.74,46.17,48.6,43.06424214703436,percentual declarado no RGF,3.1099999999999994,5.539999999999999,-3.259999999999998,atenção,6.0
+2017,ES,Espírito Santo,Sudeste,3973697,3,Executivo,12193441015.92,12192822215.92,5280028563.93,43.3,44.1,46.55,49.0,43.30440049421814,percentual declarado no RGF,3.25,5.700000000000003,-0.030000000000001137,atenção,7.0
+2017,RO,Rondônia,Norte,1787279,3,Executivo,6500433453.02,6499532786.06,2815868758.17,43.32,44.1,46.55,49.0,43.32417191908608,percentual declarado no RGF,3.229999999999997,5.68,1.6400000000000006,atenção,8.0
+2017,SP,São Paulo,Sudeste,44749699,3,Executivo,151562454361.73,151528963696.73,65814113344.54,43.43,44.1,46.55,49.0,43.43335540541301,percentual declarado no RGF,3.1199999999999974,5.57,-2.969999999999999,atenção,9.0
+2017,PA,Pará,Norte,8272724,3,Executivo,18017134313.51,18015886333.71,8121551739.28,45.08,43.74,46.17,48.6,45.07994549279294,percentual declarado no RGF,1.0900000000000034,3.520000000000003,0.46000000000000085,alerta,10.0
+2017,PR,Paraná,Sul,11242720,3,Executivo,36615275854.39,36615275854.39,16526007612.39,45.13,,,,45.134188468523064,percentual declarado no RGF,,,-0.259999999999998,confortável,11.0
+2017,DF,Distrito Federal,Centro-Oeste,2977216,3,Executivo,20719829099.23,20719829099.23,9545437237.47,46.07,44.1,46.55,49.0,46.069092518840954,percentual declarado no RGF,0.4799999999999969,2.9299999999999997,-0.75,alerta,12.0
+2017,RS,Rio Grande do Sul,Sul,11286500,3,Executivo,35045932696.94,35045932696.94,16311019742.0,46.54,44.1,46.55,49.0,46.54183377868605,percentual declarado no RGF,0.00999999999999801,2.460000000000001,2.4399999999999977,alerta,13.0
+2017,PB,Paraíba,Nordeste,3999415,3,Executivo,9130510757.83,9130510757.83,4328598126.25,47.41,44.1,46.55,49.0,47.40806118143992,percentual declarado no RGF,-0.8599999999999994,1.5900000000000034,-1.1400000000000006,acima do limite prudencial,14.0
+2017,SE,Sergipe,Nordeste,2265779,3,Executivo,6885059829.86,6885059829.86,3280534669.23,47.65,44.1,46.55,49.0,47.647148322554315,percentual declarado no RGF,-1.1000000000000014,1.3500000000000014,0.4399999999999977,acima do limite prudencial,15.0
+2017,MT,Mato Grosso,Centro-Oeste,3305531,3,Executivo,13389766593.46,13389766593.46,6385477846.52,47.69,44.1,46.55,49.0,47.6892394049563,percentual declarado no RGF,-1.1400000000000006,1.3100000000000023,2.3599999999999994,acima do limite prudencial,16.0
+2017,PI,Piauí,Nordeste,3212180,3,Executivo,8005700615.63,7999757939.63,3818728199.13,47.74,44.1,46.55,49.0,47.73554684964157,percentual declarado no RGF,-1.1900000000000048,1.259999999999998,6.140000000000001,acima do limite prudencial,17.0
+2017,AM,Amazonas,Norte,4001667,3,Executivo,12052493121.73,12052493121.73,5758117398.79,47.78,44.1,46.55,49.0,47.775322007099284,percentual declarado no RGF,-1.230000000000004,1.2199999999999989,0.5700000000000003,acima do limite prudencial,18.0
+2017,AL,Alagoas,Nordeste,3358963,3,Executivo,7348618775.3,7347418775.3,3573247791.64,48.63,44.1,46.55,49.0,48.632695384837405,percentual declarado no RGF,-2.0800000000000054,0.36999999999999744,2.6600000000000037,acima do limite prudencial,19.0
+2017,PE,Pernambuco,Nordeste,9410336,3,Executivo,21512144300.43,21511100200.83,10533102110.81,48.97,44.1,46.55,49.0,48.96589208581522,percentual declarado no RGF,-2.4200000000000017,0.030000000000001137,3.1999999999999957,acima do limite prudencial,20.0
+2017,MS,Mato Grosso do Sul,Centro-Oeste,2682386,3,Executivo,9747254504.2,9747254504.2,4775246188.9,48.99,44.1,46.55,49.0,48.99067924041986,percentual declarado no RGF,-2.440000000000005,0.00999999999999801,5.840000000000003,acima do limite prudencial,21.0
+2017,RR,Roraima,Norte,514229,3,Executivo,3199536328.85,3199536328.85,1567381053.74,48.99,44.1,46.55,49.0,48.98775611975499,percentual declarado no RGF,-2.440000000000005,0.00999999999999801,6.310000000000002,acima do limite prudencial,21.0
+2017,SC,Santa Catarina,Sul,6910553,3,Executivo,21132256296.12,21128873821.43,10557604167.13,49.97,44.1,46.55,49.0,49.967661581763664,percentual declarado no RGF,-3.4200000000000017,-0.9699999999999989,2.1599999999999966,acima do limite máximo,23.0
+2017,MG,Minas Gerais,Sudeste,20997560,3,Executivo,55173574559.76,55173574559.76,27584286164.16,50.0,44.1,46.55,49.0,49.995466823130535,percentual declarado no RGF,-3.450000000000003,-1.0,0.7100000000000009,acima do limite máximo,24.0
+2017,AC,Acre,Norte,816687,3,Executivo,4471916240.14,4471916240.14,2408736386.43,53.86,44.1,46.55,49.0,53.86362930524366,percentual declarado no RGF,-7.310000000000002,-4.859999999999999,8.649999999999999,acima do limite máximo,25.0
+2017,TO,Tocantins,Norte,1532902,3,Executivo,7198140237.26,7197392338.06,3958079109.54,54.99,44.1,46.55,49.0,54.99323815668035,percentual declarado no RGF,-8.440000000000005,-5.990000000000002,6.649999999999999,acima do limite máximo,26.0
+2017,RJ,Rio de Janeiro,Sudeste,16635996,3,Executivo,50194044675.0,50194044675.0,28744436312.89,57.27,44.1,46.55,49.0,57.266626945500285,percentual declarado no RGF,-10.720000000000006,-8.270000000000003,-4.459999999999994,acima do limite máximo,27.0
+2018,RJ,Rio de Janeiro,Sudeste,16635996,3,Executivo,58290777944.0,58290777944.0,21774752857.0,37.36,44.1,46.55,49.0,37.35539930161684,percentual declarado no RGF,9.189999999999998,11.64,-19.910000000000004,confortável,1.0
+2018,AP,Amapá,Norte,782295,3,Executivo,4854795872.77,4854795872.77,1945139506.2,40.07,44.1,46.55,49.0,40.066350000626535,percentual declarado no RGF,6.479999999999997,8.93,-2.6599999999999966,confortável,2.0
+2018,ES,Espírito Santo,Sudeste,3973697,3,Executivo,13567368617.47,13564512417.47,5655321822.16,41.69,44.1,46.55,49.0,41.6920391099086,percentual declarado no RGF,4.859999999999999,7.310000000000002,-1.6099999999999994,confortável,3.0
+2018,RO,Rondônia,Norte,1787279,3,Executivo,6943539791.0,6943289791.0,2910339177.69,41.92,44.1,46.55,49.0,41.91585351172331,percentual declarado no RGF,4.6299999999999955,7.079999999999998,-1.3999999999999986,confortável,4.0
+2018,CE,Ceará,Nordeste,8963663,3,Executivo,19186195108.18,19174512116.18,8110638639.74,42.3,44.1,46.55,49.0,42.29906132994128,percentual declarado no RGF,4.25,6.700000000000003,-0.15000000000000568,confortável,5.0
+2018,SP,São Paulo,Sudeste,44749699,3,Executivo,159210706095.47,159155348418.85,69016942651.04,43.36,44.1,46.55,49.0,43.364513562816455,percentual declarado no RGF,3.1899999999999977,5.640000000000001,-0.07000000000000028,atenção,6.0
+2018,DF,Distrito Federal,Centro-Oeste,2977216,3,Executivo,21742563018.85,21708967909.42,9435402642.46,43.46,44.1,46.55,49.0,43.463156248739814,percentual declarado no RGF,3.0899999999999963,5.539999999999999,-2.6099999999999994,atenção,7.0
+2018,GO,Goiás,Centro-Oeste,6695855,3,Executivo,21298254079.91,21296959859.91,9443901416.07,44.34,43.74,46.17,48.6,44.343894519177205,percentual declarado no RGF,1.8299999999999983,4.259999999999998,5.040000000000006,alerta,8.0
+2018,PR,Paraná,Sul,11242720,3,Executivo,37595971640.96,37595971640.96,16756448040.19,44.57,44.1,46.55,49.0,44.56979646706141,percentual declarado no RGF,1.9799999999999969,4.43,-0.5600000000000023,alerta,9.0
+2018,RR,Roraima,Norte,514229,3,Executivo,3591370874.17,3591370874.17,1631768325.91,45.44,44.1,46.55,49.0,45.43580663434314,percentual declarado no RGF,1.1099999999999994,3.5600000000000023,-3.5500000000000043,alerta,10.0
+2018,BA,Bahia,Nordeste,15276566,3,Executivo,31980173815.28,31965032825.43,14746225203.9,46.13,43.74,46.17,48.6,46.132363712664606,percentual declarado no RGF,0.03999999999999915,2.469999999999999,3.0700000000000003,alerta,11.0
+2018,RS,Rio Grande do Sul,Sul,11286500,3,Executivo,37773288193.39,37773288193.39,17599822086.16,46.59,44.1,46.55,49.0,46.593301584053826,percentual declarado no RGF,-0.04000000000000625,2.4099999999999966,0.05000000000000426,acima do limite prudencial,12.0
+2018,MA,Maranhão,Nordeste,6954036,3,Executivo,13294049568.66,13294049568.66,6225982864.65,46.83,44.1,46.55,49.0,46.83285429691354,percentual declarado no RGF,-0.28000000000000114,2.1700000000000017,5.449999999999996,acima do limite prudencial,13.0
+2018,PA,Pará,Norte,8272724,3,Executivo,18818401698.91,18800439279.91,8865485652.02,47.16,43.74,46.17,48.6,47.15573673586227,percentual declarado no RGF,-0.9899999999999949,1.4400000000000048,2.0799999999999983,acima do limite prudencial,14.0
+2018,MS,Mato Grosso do Sul,Centro-Oeste,2682386,3,Executivo,10735143525.05,10733387387.05,5068516543.6,47.22,44.1,46.55,49.0,47.22196600967972,percentual declarado no RGF,-0.6700000000000017,1.7800000000000011,-1.7700000000000031,acima do limite prudencial,15.0
+2018,SE,Sergipe,Nordeste,2265779,3,Executivo,7371485136.67,7371485136.67,3503139931.54,47.52,44.1,46.55,49.0,47.522851455175164,percentual declarado no RGF,-0.970000000000006,1.4799999999999969,-0.12999999999999545,acima do limite prudencial,16.0
+2018,PE,Pernambuco,Nordeste,9410336,3,Executivo,23131949692.05,23127186509.05,11087984045.16,47.94,44.1,46.55,49.0,47.94350597216446,percentual declarado no RGF,-1.3900000000000006,1.0600000000000023,-1.0300000000000011,acima do limite prudencial,17.0
+2018,AC,Acre,Norte,816687,3,Executivo,4846051636.63,4846051636.63,2326733547.37,48.01,44.1,46.55,49.0,48.01297472323339,percentual declarado no RGF,-1.4600000000000009,0.990000000000002,-5.850000000000001,acima do limite prudencial,18.0
+2018,AM,Amazonas,Norte,4001667,3,Executivo,13222390940.79,13222390940.79,6390089433.24,48.33,44.1,46.55,49.0,48.32779080466524,percentual declarado no RGF,-1.7800000000000011,0.6700000000000017,0.5499999999999972,acima do limite prudencial,19.0
+2018,PI,Piauí,Nordeste,3212180,3,Executivo,8633503898.16,8629844004.16,4187088654.05,48.52,44.1,46.55,49.0,48.51870615542554,percentual declarado no RGF,-1.970000000000006,0.4799999999999969,0.7800000000000011,acima do limite prudencial,20.0
+2018,AL,Alagoas,Nordeste,3358963,3,Executivo,7962976440.89,7961775288.89,3876444684.46,48.69,44.1,46.55,49.0,48.68819507967348,percentual declarado no RGF,-2.1400000000000006,0.3100000000000023,0.05999999999999517,acima do limite prudencial,21.0
+2018,SC,Santa Catarina,Sul,6910553,3,Executivo,22773760288.74,22767096382.74,11101533243.26,48.76,44.1,46.55,49.0,48.76130472077327,percentual declarado no RGF,-2.210000000000001,0.240000000000002,-1.2100000000000009,acima do limite prudencial,22.0
+2018,PB,Paraíba,Nordeste,3999415,3,Executivo,9593439615.37,9593439615.37,4855155217.76,50.61,44.1,46.55,49.0,50.609118443622435,percentual declarado no RGF,-4.060000000000002,-1.6099999999999994,3.200000000000003,acima do limite máximo,23.0
+2018,MT,Mato Grosso,Centro-Oeste,3305531,3,Executivo,15226929608.4,15223276761.4,8813069563.12,57.89,44.1,46.55,49.0,57.89206687397512,percentual declarado no RGF,-11.340000000000003,-8.89,10.200000000000003,acima do limite máximo,24.0
+2018,TO,Tocantins,Norte,1532902,3,Executivo,6644520189.27,6644176644.77,3846130627.03,57.89,44.1,46.55,49.0,57.88724220716652,percentual declarado no RGF,-11.340000000000003,-8.89,2.8999999999999986,acima do limite máximo,24.0
+2018,RN,Rio Grande do Norte,Nordeste,3474998,3,Executivo,8826611254.37,8826611254.37,5617162585.02,63.64,44.1,46.55,49.0,63.63894843832595,percentual declarado no RGF,-17.090000000000003,-14.64,22.410000000000004,acima do limite máximo,26.0
+2018,MG,Minas Gerais,Sudeste,20997560,3,Executivo,56345444787.97,56345444787.97,37556778891.99,66.65,44.1,46.55,49.0,66.65450780150472,percentual declarado no RGF,-20.10000000000001,-17.650000000000006,16.650000000000006,acima do limite máximo,27.0
+2019,ES,Espírito Santo,Sudeste,3972388,3,Executivo,15832886168.2,15809748394.2,5745534447.55,36.34,44.1,46.55,49.0,36.34171970540543,percentual declarado no RGF,10.209999999999994,12.659999999999997,-5.349999999999994,confortável,1.0
+2019,AP,Amapá,Norte,829494,3,Executivo,5589424463.75,5589424463.75,2193946642.38,39.25,44.1,46.55,49.0,39.25174508768761,percentual declarado no RGF,7.299999999999997,9.75,-0.8200000000000003,confortável,2.0
+2019,RJ,Rio de Janeiro,Sudeste,17159960,3,Executivo,58566003981.0,58566003981.0,23019690203.5,39.31,44.1,46.55,49.0,39.305550385455795,percentual declarado no RGF,7.239999999999995,9.689999999999998,1.9500000000000028,confortável,3.0
+2019,RO,Rondônia,Norte,1757589,3,Executivo,7743045299.48,7742045299.48,3086605530.74,39.87,44.1,46.55,49.0,39.868089262501655,percentual declarado no RGF,6.68,9.130000000000003,-2.0500000000000043,confortável,4.0
+2019,CE,Ceará,Nordeste,9075649,3,Executivo,20882025052.84,20870241722.9,8689988993.61,41.64,44.1,46.55,49.0,41.6381808557342,percentual declarado no RGF,4.909999999999997,7.359999999999999,-0.6599999999999966,confortável,5.0
+2019,MA,Maranhão,Nordeste,7035055,3,Executivo,14698617424.86,14698617424.86,6358169034.58,43.26,44.1,46.55,49.0,43.2569190067246,percentual declarado no RGF,3.289999999999999,5.740000000000002,-3.5700000000000003,atenção,6.0
+2019,PA,Pará,Norte,8513497,3,Executivo,21690571870.28,21684401096.28,9436453715.76,43.52,43.74,46.17,48.6,43.517243911241074,percentual declarado no RGF,2.6499999999999986,5.079999999999998,-3.6399999999999935,atenção,7.0
+2019,DF,Distrito Federal,Centro-Oeste,2974703,3,Executivo,22503460737.24,22331538680.11,9722118283.78,43.54,44.1,46.55,49.0,43.5353713107068,percentual declarado no RGF,3.009999999999998,5.460000000000001,0.0799999999999983,atenção,8.0
+2019,BA,Bahia,Nordeste,14812617,3,Executivo,34525803568.62,34510250369.67,15131125542.49,43.85,43.74,46.17,48.6,43.84530793143211,percentual declarado no RGF,2.3200000000000003,4.75,-2.280000000000001,alerta,9.0
+2019,SP,São Paulo,Sudeste,45538936,3,Executivo,160444552836.55,160359295919.93,71194688211.7,44.4,44.1,46.55,49.0,44.39698229109753,percentual declarado no RGF,2.1499999999999986,4.600000000000001,1.0399999999999991,alerta,10.0
+2019,AL,Alagoas,Nordeste,3322820,3,Executivo,8559007201.96,8559007201.96,3826567689.89,44.71,44.1,46.55,49.0,44.708078864727696,percentual declarado no RGF,1.8399999999999963,4.289999999999999,-3.979999999999997,alerta,11.0
+2019,PR,Paraná,Sul,11348937,3,Executivo,38935917232.07,38912964838.07,17582329633.05,45.18,44.1,46.55,49.0,45.18373171053919,percentual declarado no RGF,1.3699999999999974,3.8200000000000003,0.6099999999999994,alerta,12.0
+2019,RS,Rio Grande do Sul,Sul,11329605,3,Executivo,39779435776.47,39650310675.47,18081995607.3,45.6,44.1,46.55,49.0,45.60366690515386,percentual declarado no RGF,0.9499999999999957,3.3999999999999986,-0.990000000000002,alerta,13.0
+2019,RR,Roraima,Norte,576568,3,Executivo,4200526038.83,4200526038.83,1920741057.67,45.73,44.1,46.55,49.0,45.726202859225616,percentual declarado no RGF,0.8200000000000003,3.270000000000003,0.28999999999999915,alerta,14.0
+2019,SC,Santa Catarina,Sul,7075494,3,Executivo,25092129460.15,25078267060.15,11472090455.43,45.75,44.1,46.55,49.0,45.74514829080611,percentual declarado no RGF,0.7999999999999972,3.25,-3.009999999999998,alerta,15.0
+2019,SE,Sergipe,Nordeste,2278308,3,Executivo,8053614115.0,8053614115.0,3772624841.02,46.84,44.1,46.55,49.0,46.84387390741033,percentual declarado no RGF,-0.29000000000000625,2.1599999999999966,-0.6799999999999997,acima do limite prudencial,16.0
+2019,PE,Pernambuco,Nordeste,9496294,3,Executivo,25340299465.22,25335728691.22,11884823951.74,46.91,44.1,46.55,49.0,46.90934330954783,percentual declarado no RGF,-0.35999999999999943,2.0900000000000034,-1.0300000000000011,acima do limite prudencial,17.0
+2019,TO,Tocantins,Norte,1555229,3,Executivo,7365652704.9,7364314686.7,3455571175.55,46.92,44.1,46.55,49.0,46.92318732374085,percentual declarado no RGF,-0.37000000000000455,2.0799999999999983,-10.969999999999999,acima do limite prudencial,18.0
+2019,MS,Mato Grosso do Sul,Centro-Oeste,2748023,3,Executivo,12012249489.57,12005913996.67,5652507538.44,47.08,44.1,46.55,49.0,47.08102640088708,percentual declarado no RGF,-0.5300000000000011,1.9200000000000017,-0.14000000000000057,acima do limite prudencial,19.0
+2019,PI,Piauí,Nordeste,3264531,3,Executivo,9470871217.32,9465261443.32,4554778009.3,48.12,44.1,46.55,49.0,48.12099524746337,percentual declarado no RGF,-1.5700000000000003,0.8800000000000026,-0.4000000000000057,acima do limite prudencial,20.0
+2019,PB,Paraíba,Nordeste,3996496,3,Executivo,10245829093.49,10245829093.49,5006263894.97,48.86,44.1,46.55,49.0,48.86148157742434,percentual declarado no RGF,-2.3100000000000023,0.14000000000000057,-1.75,acima do limite prudencial,21.0
+2019,GO,Goiás,Centro-Oeste,6921161,3,Executivo,24538621316.63,24528200542.63,12115174743.78,49.39,43.74,46.17,48.6,49.39283957143057,percentual declarado no RGF,-3.219999999999999,-0.7899999999999991,5.049999999999997,acima do limite máximo,22.0
+2019,AM,Amazonas,Norte,4080611,3,Executivo,14982882075.02,14982582075.02,7438739394.66,49.65,44.1,46.55,49.0,49.64924842335676,percentual declarado no RGF,-3.1000000000000014,-0.6499999999999986,1.3200000000000003,acima do limite máximo,23.0
+2019,MT,Mato Grosso,Centro-Oeste,3441998,3,Executivo,17154484294.75,17145216862.86,8979892556.64,52.38,44.1,46.55,49.0,52.37549707576029,percentual declarado no RGF,-5.830000000000005,-3.3800000000000026,-5.509999999999998,acima do limite máximo,24.0
+2019,AC,Acre,Norte,869265,3,Executivo,5357455833.49,5357455833.49,2878920740.24,53.74,44.1,46.55,49.0,53.73671439797179,percentual declarado no RGF,-7.190000000000005,-4.740000000000002,5.730000000000004,acima do limite máximo,25.0
+2019,MG,Minas Gerais,Sudeste,21040662,3,Executivo,64068169194.3,64068169194.3,37427634895.84,58.42,44.1,46.55,49.0,58.418455477216675,percentual declarado no RGF,-11.870000000000005,-9.420000000000002,-8.230000000000004,acima do limite máximo,26.0
+2019,RN,Rio Grande do Norte,Nordeste,3479010,3,Executivo,9557365419.06,9556715419.06,5787261756.13,60.56,44.1,46.55,49.0,60.55701674016402,percentual declarado no RGF,-14.010000000000005,-11.560000000000002,-3.0799999999999983,acima do limite máximo,27.0
+2020,MA,Maranhão,Nordeste,7075181,3,Executivo,16314807210.65,16269470610.65,6101954546.19,37.51,44.1,46.55,49.0,37.505550685808174,percentual declarado no RGF,9.04,11.490000000000002,-5.75,confortável,1.0
+2020,RO,Rondônia,Norte,1777225,3,Executivo,8723780512.0,8688688787.0,3264199227.01,37.57,44.1,46.55,49.0,37.56837547103642,percentual declarado no RGF,8.979999999999997,11.43,-2.299999999999997,confortável,2.0
+2020,PA,Pará,Norte,8602865,3,Executivo,24196556795.52,23964854990.52,9271740630.16,38.69,43.74,46.17,48.6,38.68890771017688,percentual declarado no RGF,7.480000000000004,9.910000000000004,-4.830000000000005,confortável,3.0
+2020,ES,Espírito Santo,Sudeste,4018650,3,Executivo,15640877344.22,15575541229.22,6045015125.18,38.81,44.1,46.55,49.0,38.81094747346206,percentual declarado no RGF,7.739999999999995,10.189999999999998,2.469999999999999,confortável,4.0
+2020,PI,Piauí,Nordeste,3273227,3,Executivo,11769739826.7,11729771030.71,4608594404.55,39.29,44.1,46.55,49.0,39.28972178982971,percentual declarado no RGF,7.259999999999998,9.71,-8.829999999999998,confortável,5.0
+2020,AL,Alagoas,Nordeste,3337357,3,Executivo,10059495938.65,10049336938.65,3997127893.83,39.78,44.1,46.55,49.0,39.775041062231146,percentual declarado no RGF,6.769999999999996,9.219999999999999,-4.93,confortável,6.0
+2020,CE,Ceará,Nordeste,9132078,3,Executivo,22028314984.46,21886952291.67,8876096988.47,40.55,44.1,46.55,49.0,40.55428490081815,percentual declarado no RGF,6.0,8.450000000000003,-1.0900000000000034,confortável,7.0
+2020,BA,Bahia,Nordeste,14873064,3,Executivo,37877609907.56,37772850289.0,15468086461.27,40.95,43.74,46.17,48.6,40.95027603933434,percentual declarado no RGF,5.219999999999999,7.649999999999999,-2.8999999999999986,confortável,8.0
+2020,MS,Mato Grosso do Sul,Centro-Oeste,2778986,3,Executivo,14070824317.81,14069642720.69,5890588166.68,41.87,44.1,46.55,49.0,41.86736140795987,percentual declarado no RGF,4.68,7.130000000000003,-5.210000000000001,confortável,9.0
+2020,DF,Distrito Federal,Centro-Oeste,3015268,3,Executivo,25058903184.98,24927784436.45,10483224283.34,42.05,44.1,46.55,49.0,42.054376352882684,percentual declarado no RGF,4.5,6.950000000000003,-1.490000000000002,confortável,10.0
+2020,RR,Roraima,Norte,605761,3,Executivo,4335140398.81,4335140398.81,1835778926.26,42.35,44.1,46.55,49.0,42.34646994971427,percentual declarado no RGF,4.199999999999996,6.649999999999999,-3.3799999999999955,confortável,11.0
+2020,RS,Rio Grande do Sul,Sul,11377239,3,Executivo,42073517608.88,41982291926.88,17837642883.77,42.49,44.1,46.55,49.0,42.48849232633032,percentual declarado no RGF,4.059999999999995,6.509999999999998,-3.1099999999999994,confortável,12.0
+2020,MT,Mato Grosso,Centro-Oeste,3484466,3,Executivo,20481972452.51,20413941006.65,9031634534.36,44.24,44.1,46.55,49.0,44.24248375861317,percentual declarado no RGF,2.309999999999995,4.759999999999998,-8.14,alerta,13.0
+2020,GO,Goiás,Centro-Oeste,7018354,3,Executivo,26323342281.46,26290021366.46,11808078065.0,44.91,43.74,46.17,48.6,44.914676562661086,percentual declarado no RGF,1.2600000000000051,3.690000000000005,-4.480000000000004,alerta,14.0
+2020,SC,Santa Catarina,Sul,7164788,3,Executivo,26861365172.05,26823036868.05,12048886135.44,44.92,44.1,46.55,49.0,44.91991788518143,percentual declarado no RGF,1.6299999999999955,4.079999999999998,-0.8299999999999983,alerta,15.0
+2020,TO,Tocantins,Norte,1572866,3,Executivo,8198916362.18,8176158596.75,3701241745.55,45.27,44.1,46.55,49.0,45.26871270600393,percentual declarado no RGF,1.279999999999994,3.729999999999997,-1.6499999999999986,alerta,16.0
+2020,AP,Amapá,Norte,845731,3,Executivo,6301875689.02,6301875689.02,2864951211.22,45.46,44.1,46.55,49.0,45.46188075737061,percentual declarado no RGF,1.0899999999999963,3.539999999999999,6.210000000000001,alerta,17.0
+2020,SP,São Paulo,Sudeste,45919049,3,Executivo,165229897154.96,164892618275.53,74992612397.39,45.48,44.1,46.55,49.0,45.47966621045454,percentual declarado no RGF,1.0700000000000003,3.520000000000003,1.0799999999999983,alerta,18.0
+2020,PR,Paraná,Sul,11433957,3,Executivo,40251112108.76,40200382037.76,18394551196.25,45.76,44.1,46.55,49.0,45.757155190644944,percentual declarado no RGF,0.7899999999999991,3.240000000000002,0.5799999999999983,alerta,19.0
+2020,PE,Pernambuco,Nordeste,9557071,3,Executivo,27238978598.44,27166953972.44,12443181326.07,45.8,44.1,46.55,49.0,45.80263705196102,percentual declarado no RGF,0.75,3.200000000000003,-1.1099999999999994,alerta,20.0
+2020,RJ,Rio de Janeiro,Sudeste,17264943,3,Executivo,59498087016.55,59498087016.55,27682713625.37,46.53,44.1,46.55,49.0,46.52706500911495,percentual declarado no RGF,0.01999999999999602,2.469999999999999,7.219999999999999,alerta,21.0
+2020,SE,Sergipe,Nordeste,2298696,3,Executivo,8724606234.62,8611442070.62,4079772820.67,47.38,44.1,46.55,49.0,47.37618609302527,percentual declarado no RGF,-0.8300000000000054,1.6199999999999974,0.5399999999999991,acima do limite prudencial,22.0
+2020,AM,Amazonas,Norte,4144597,3,Executivo,16459910905.99,16446343905.99,7951177661.36,48.35,44.1,46.55,49.0,48.34617168904065,percentual declarado no RGF,-1.8000000000000043,0.6499999999999986,-1.2999999999999972,acima do limite prudencial,23.0
+2020,PB,Paraíba,Nordeste,4018127,3,Executivo,11287852748.44,11274263728.44,5777255807.44,51.24,44.1,46.55,49.0,51.24286557947486,percentual declarado no RGF,-4.690000000000005,-2.240000000000002,2.3800000000000026,acima do limite máximo,24.0
+2020,AC,Acre,Norte,881935,3,Executivo,5702871320.41,5702871320.41,3004990857.76,52.69,44.1,46.55,49.0,52.692594465623685,percentual declarado no RGF,-6.140000000000001,-3.6899999999999977,-1.0500000000000043,acima do limite máximo,25.0
+2020,MG,Minas Gerais,Sudeste,21168791,3,Executivo,70585665374.16,70579703124.16,38063087517.5,53.93,44.1,46.55,49.0,53.92922587183666,percentual declarado no RGF,-7.380000000000003,-4.93,-4.490000000000002,acima do limite máximo,26.0
+2020,RN,Rio Grande do Norte,Nordeste,3506853,3,Executivo,10187020031.22,10161012844.42,5569454771.74,54.81,44.1,46.55,49.0,54.812004049365115,percentual declarado no RGF,-8.260000000000005,-5.810000000000002,-5.75,acima do limite máximo,27.0
+2021,ES,Espírito Santo,Sudeste,4064052,3,Executivo,18821227339.89,18772686660.89,6535667071.56,34.81,44.1,46.55,49.0,34.81476673861528,percentual declarado no RGF,11.739999999999995,14.189999999999998,-4.0,confortável,1.0
+2021,BA,Bahia,Nordeste,14930634,3,Executivo,45445462102.68,45333569085.44,16124197131.55,35.57,43.74,46.17,48.6,35.5678969400375,percentual declarado no RGF,10.600000000000001,13.030000000000001,-5.380000000000003,confortável,2.0
+2021,AL,Alagoas,Nordeste,3351543,3,Executivo,12528914436.01,12461508202.01,4436804441.02,35.6,44.1,46.55,49.0,35.60407271011031,percentual declarado no RGF,10.949999999999996,13.399999999999999,-4.18,confortável,3.0
+2021,RO,Rondônia,Norte,1796460,3,Executivo,10018331562.62,10005011323.62,3678652389.42,36.77,44.1,46.55,49.0,36.76809821029762,percentual declarado no RGF,9.779999999999994,12.229999999999997,-0.7999999999999972,confortável,4.0
+2021,MA,Maranhão,Nordeste,7114598,3,Executivo,18273349131.85,18267505838.53,6842903594.42,37.46,44.1,46.55,49.0,37.459430175666796,percentual declarado no RGF,9.089999999999996,11.54,-0.04999999999999716,confortável,5.0
+2021,MT,Mato Grosso,Centro-Oeste,3526220,3,Executivo,24604584741.02,24485908706.81,9224562866.25,37.67,44.1,46.55,49.0,37.67294478103021,percentual declarado no RGF,8.879999999999995,11.329999999999998,-6.57,confortável,6.0
+2021,GO,Goiás,Centro-Oeste,7113540,3,Executivo,31545320020.2,31539191641.68,12074218898.08,38.28,43.74,46.17,48.6,38.28322245939732,percentual declarado no RGF,7.890000000000001,10.32,-6.6299999999999955,confortável,7.0
+2021,RR,Roraima,Norte,631181,3,Executivo,5540254194.44,5536991008.54,2119767863.26,38.28,44.1,46.55,49.0,38.28375122861077,percentual declarado no RGF,8.269999999999996,10.719999999999999,-4.07,confortável,7.0
+2021,SP,São Paulo,Sudeste,46289333,3,Executivo,197089874182.32,196835991677.1,76151422917.79,38.69,44.1,46.55,49.0,38.6877533264916,percentual declarado no RGF,7.859999999999999,10.310000000000002,-6.789999999999999,confortável,9.0
+2021,CE,Ceará,Nordeste,9187103,3,Executivo,25170813561.04,25061058356.04,9775708014.38,39.01,44.1,46.55,49.0,39.00756255181833,percentual declarado no RGF,7.539999999999999,9.990000000000002,-1.5399999999999991,confortável,10.0
+2021,DF,Distrito Federal,Centro-Oeste,3055149,3,Executivo,28277263875.4,28236776876.68,11159326403.23,39.52,44.1,46.55,49.0,39.52053894807728,percentual declarado no RGF,7.029999999999994,9.479999999999997,-2.529999999999994,confortável,11.0
+2021,PI,Piauí,Nordeste,3281480,3,Executivo,11455231445.84,11411172116.84,4596148040.39,40.28,44.1,46.55,49.0,40.27761559750072,percentual declarado no RGF,6.269999999999996,8.719999999999999,0.990000000000002,confortável,12.0
+2021,PA,Pará,Norte,8690745,3,Executivo,27009202196.32,26923897007.32,10847093275.72,40.29,43.74,46.17,48.6,40.287976412816164,percentual declarado no RGF,5.880000000000003,8.310000000000002,1.6000000000000014,confortável,13.0
+2021,TO,Tocantins,Norte,1590248,3,Executivo,10053168262.52,10052110448.21,4051925979.9,40.31,44.1,46.55,49.0,40.30920671610343,percentual declarado no RGF,6.239999999999995,8.689999999999998,-4.960000000000001,confortável,14.0
+2021,RJ,Rio de Janeiro,Sudeste,17366189,3,Executivo,82455459589.61,82455459589.61,33465263929.5,40.59,44.1,46.55,49.0,40.5858679292558,percentual declarado no RGF,5.959999999999994,8.409999999999997,-5.939999999999998,confortável,15.0
+2021,MS,Mato Grosso do Sul,Centro-Oeste,2809394,3,Executivo,15816038193.47,15797113944.47,6416151897.88,40.62,44.1,46.55,49.0,40.61597530051408,percentual declarado no RGF,5.93,8.380000000000003,-1.25,confortável,16.0
+2021,PE,Pernambuco,Nordeste,9616621,3,Executivo,31342387716.05,31335146156.05,12858764456.35,41.04,44.1,46.55,49.0,41.03623577280589,percentual declarado no RGF,5.509999999999998,7.960000000000001,-4.759999999999998,confortável,17.0
+2021,RS,Rio Grande do Sul,Sul,11422973,3,Executivo,53878109956.44,53790325445.44,22252688583.82,41.37,44.1,46.55,49.0,41.369313904581404,percentual declarado no RGF,5.18,7.630000000000003,-1.1200000000000045,confortável,18.0
+2021,PR,Paraná,Sul,11516840,3,Executivo,47834157072.78,47808298301.78,20170041254.11,42.19,44.1,46.55,49.0,42.189414747186326,percentual declarado no RGF,4.359999999999999,6.810000000000002,-3.5700000000000003,confortável,19.0
+2021,AP,Amapá,Norte,861773,3,Executivo,6652811595.54,6648761609.54,2814065373.18,42.32,44.1,46.55,49.0,42.324654400937284,percentual declarado no RGF,4.229999999999997,6.68,-3.1400000000000006,confortável,20.0
+2021,SC,Santa Catarina,Sul,7252502,3,Executivo,31050771461.09,31015355302.09,13380288445.83,43.14,44.1,46.55,49.0,43.14085173458695,percentual declarado no RGF,3.4099999999999966,5.859999999999999,-1.7800000000000011,atenção,21.0
+2021,SE,Sergipe,Nordeste,2318822,3,Executivo,9674448310.22,9611038125.61,4307026707.02,44.81,44.1,46.55,49.0,44.813334946027375,percentual declarado no RGF,1.7399999999999949,4.189999999999998,-2.5700000000000003,alerta,22.0
+2021,AM,Amazonas,Norte,4207714,3,Executivo,18994133782.72,18992933782.72,8868969581.52,46.7,44.1,46.55,49.0,46.69615385901621,percentual declarado no RGF,-0.15000000000000568,2.299999999999997,-1.6499999999999986,acima do limite prudencial,23.0
+2021,PB,Paraíba,Nordeste,4039277,3,Executivo,13037174793.71,13032451564.71,6175941926.29,47.39,44.1,46.55,49.0,47.38894977375984,percentual declarado no RGF,-0.8400000000000034,1.6099999999999994,-3.8500000000000014,acima do limite prudencial,24.0
+2021,MG,Minas Gerais,Sudeste,21292666,3,Executivo,82453583803.79,82432561595.79,40125369667.92,48.68,44.1,46.55,49.0,48.6766016864497,percentual declarado no RGF,-2.1300000000000026,0.3200000000000003,-5.25,acima do limite prudencial,25.0
+2021,AC,Acre,Norte,894470,3,Executivo,6690645735.4,6651119664.37,3421542980.77,51.44,44.1,46.55,49.0,51.44311264010451,percentual declarado no RGF,-4.890000000000001,-2.4399999999999977,-1.25,acima do limite máximo,26.0
+2021,RN,Rio Grande do Norte,Nordeste,3534165,3,Executivo,12245466333.85,12199921434.83,6657041504.64,54.57,44.1,46.55,49.0,54.56626536655039,percentual declarado no RGF,-8.020000000000003,-5.57,-0.240000000000002,acima do limite máximo,27.0
+2022,MA,Maranhão,Nordeste,7153262,3,Executivo,22168930851.27,22164626544.27,6866320439.94,30.98,44.1,46.55,49.0,30.97873283010528,percentual declarado no RGF,15.569999999999997,18.02,-6.48,confortável,1.0
+2022,BA,Bahia,Nordeste,14985284,3,Executivo,55345564180.74,55298488312.14,20016762318.92,36.2,43.74,46.17,48.6,36.19766639176934,percentual declarado no RGF,9.969999999999999,12.399999999999999,0.6300000000000026,confortável,2.0
+2022,MT,Mato Grosso,Centro-Oeste,3567234,3,Executivo,29374848838.94,29286462391.07,10616483478.82,36.25,44.1,46.55,49.0,36.25048098010352,percentual declarado no RGF,10.299999999999997,12.75,-1.4200000000000017,confortável,3.0
+2022,ES,Espírito Santo,Sudeste,4108508,3,Executivo,21250420141.8,21193712380.06,7943796746.4,37.48,44.1,46.55,49.0,37.48185595777869,percentual declarado no RGF,9.07,11.520000000000003,2.6699999999999946,confortável,4.0
+2022,SP,São Paulo,Sudeste,46649132,3,Executivo,229464781384.87,229116679153.22,86901210788.16,37.93,44.1,46.55,49.0,37.9288016522121,percentual declarado no RGF,8.619999999999997,11.07,-0.759999999999998,confortável,5.0
+2022,PA,Pará,Norte,8777124,3,Executivo,34296177567.37,34198301843.2,13311956389.47,38.93,43.74,46.17,48.6,38.92578190141027,percentual declarado no RGF,7.240000000000002,9.670000000000002,-1.3599999999999994,confortável,6.0
+2022,MS,Mato Grosso do Sul,Centro-Oeste,2839188,3,Executivo,18366590887.86,18352650109.3,7180976036.51,39.13,44.1,46.55,49.0,39.12773356296441,percentual declarado no RGF,7.419999999999995,9.869999999999997,-1.4899999999999949,confortável,7.0
+2022,RO,Rondônia,Norte,1815278,3,Executivo,11599606062.92,11597477035.5,4551551529.1,39.25,44.1,46.55,49.0,39.24604907746446,percentual declarado no RGF,7.299999999999997,9.75,2.479999999999997,confortável,8.0
+2022,TO,Tocantins,Norte,1607363,3,Executivo,12105998306.71,12104467859.45,4763300076.12,39.35,44.1,46.55,49.0,39.35158597163175,percentual declarado no RGF,7.199999999999996,9.649999999999999,-0.9600000000000009,confortável,9.0
+2022,GO,Goiás,Centro-Oeste,7206589,3,Executivo,37208349134.32,37199050718.19,15071585070.25,40.52,43.74,46.17,48.6,40.51604753150362,percentual declarado no RGF,5.649999999999999,8.079999999999998,2.240000000000002,confortável,10.0
+2022,PR,Paraná,Sul,11597484,3,Executivo,55765095408.09,55743548179.09,22678684054.5,40.68,44.1,46.55,49.0,40.683962171979246,percentual declarado no RGF,5.869999999999997,8.32,-1.509999999999998,confortável,11.0
+2022,AL,Alagoas,Nordeste,3365351,3,Executivo,13177911886.17,13148926097.0,5378104800.18,40.9,44.1,46.55,49.0,40.90147560725164,percentual declarado no RGF,5.649999999999999,8.100000000000001,5.299999999999997,confortável,12.0
+2022,AP,Amapá,Norte,877613,3,Executivo,7244043461.07,7241952761.07,2965508745.55,40.95,44.1,46.55,49.0,40.949020842713225,percentual declarado no RGF,5.599999999999994,8.049999999999997,-1.3699999999999974,confortável,13.0
+2022,AM,Amazonas,Norte,4269995,3,Executivo,22412466141.44,22401830451.37,9208124074.5,41.1,44.1,46.55,49.0,41.104337855288385,percentual declarado no RGF,5.449999999999996,7.899999999999999,-5.600000000000001,confortável,14.0
+2022,SC,Santa Catarina,Sul,7338473,3,Executivo,38260230919.84,38223585411.34,15990386728.14,41.83,44.1,46.55,49.0,41.83382211810001,percentual declarado no RGF,4.719999999999999,7.170000000000002,-1.3100000000000023,confortável,15.0
+2022,PI,Piauí,Nordeste,3289290,3,Executivo,13517450096.11,13495207706.16,5702169274.96,42.25,44.1,46.55,49.0,42.25329019839537,percentual declarado no RGF,4.299999999999997,6.75,1.9699999999999989,confortável,16.0
+2022,CE,Ceará,Nordeste,9240580,3,Executivo,30383651351.44,30294830171.62,12973958990.16,42.83,44.1,46.55,49.0,42.825653475073516,percentual declarado no RGF,3.719999999999999,6.170000000000002,3.8200000000000003,confortável,17.0
+2022,PE,Pernambuco,Nordeste,9674793,3,Executivo,36722105248.87,36697903274.87,15792078470.14,43.03,44.1,46.55,49.0,43.032645085622924,percentual declarado no RGF,3.519999999999996,5.969999999999999,1.990000000000002,atenção,18.0
+2022,SE,Sergipe,Nordeste,2338474,3,Executivo,11296095375.56,11266509996.42,4957344531.21,44.0,44.1,46.55,49.0,44.000711247628814,percentual declarado no RGF,2.549999999999997,5.0,-0.8100000000000023,atenção,19.0
+2022,DF,Distrito Federal,Centro-Oeste,3094325,3,Executivo,29460072799.32,29377546367.89,12974790069.38,44.17,44.1,46.55,49.0,44.16566961344871,percentual declarado no RGF,2.3799999999999955,4.829999999999998,4.649999999999999,alerta,20.0
+2022,RR,Roraima,Norte,652713,3,Executivo,6383923484.56,6375269704.4,2864228547.83,44.93,44.1,46.55,49.0,44.92717454530911,percentual declarado no RGF,1.6199999999999974,4.07,6.649999999999999,alerta,21.0
+2022,PB,Paraíba,Nordeste,4059905,3,Executivo,15758982577.21,15755878027.21,7142919041.73,45.33,44.1,46.55,49.0,45.33494756302607,percentual declarado no RGF,1.2199999999999989,3.6700000000000017,-2.0600000000000023,alerta,22.0
+2022,RJ,Rio de Janeiro,Sudeste,17463349,3,Executivo,89631905200.18,89631905200.18,41082014496.92,45.83,44.1,46.55,49.0,45.83414176589153,percentual declarado no RGF,0.7199999999999989,3.1700000000000017,5.239999999999995,alerta,23.0
+2022,AC,Acre,Norte,906876,3,Executivo,7994706978.25,7968319334.47,3694040445.88,46.36,44.1,46.55,49.0,46.359091432242444,percentual declarado no RGF,0.18999999999999773,2.6400000000000006,-5.079999999999998,alerta,24.0
+2022,RS,Rio Grande do Sul,Sul,11466630,3,Executivo,50634029849.59,50491712052.59,24174176521.9,47.88,44.1,46.55,49.0,47.87751402986933,percentual declarado no RGF,-1.3300000000000054,1.1199999999999974,6.510000000000005,acima do limite prudencial,25.0
+2022,MG,Minas Gerais,Sudeste,21411923,3,Executivo,91405979912.77,91403876912.77,44272473951.82,48.44,44.1,46.55,49.0,48.4361007947954,percentual declarado no RGF,-1.8900000000000006,0.5600000000000023,-0.240000000000002,acima do limite prudencial,26.0
+2022,RN,Rio Grande do Norte,Nordeste,3560903,3,Executivo,14259524062.3,14229797401.95,7594285988.76,53.37,44.1,46.55,49.0,53.36889749195801,percentual declarado no RGF,-6.82,-4.369999999999997,-1.2000000000000028,acima do limite máximo,27.0
+2023,DF,Distrito Federal,Centro-Oeste,3094325,3,Executivo,33214094007.28,33092088967.5,11514575882.2,34.8,44.1,46.55,49.0,34.79555459163837,percentual declarado no RGF,11.75,14.200000000000003,-9.370000000000005,confortável,1.0
+2023,MA,Maranhão,Nordeste,7153262,3,Executivo,23120999553.98,23035610845.58,8424324260.15,36.57,44.1,46.55,49.0,36.570874185289654,percentual declarado no RGF,9.979999999999997,12.43,5.59,confortável,2.0
+2023,MT,Mato Grosso,Centro-Oeste,3567234,3,Executivo,30940901654.07,30863753729.07,11573079331.08,37.5,44.1,46.55,49.0,37.49731621328851,percentual declarado no RGF,9.049999999999997,11.5,1.25,confortável,3.0
+2023,RO,Rondônia,Norte,1815278,3,Executivo,12547484249.81,12525048292.81,4788916183.08,38.23,44.1,46.55,49.0,38.234712323058076,percentual declarado no RGF,8.32,10.770000000000003,-1.0200000000000031,confortável,4.0
+2023,ES,Espírito Santo,Sudeste,4108508,3,Executivo,22373375355.79,22306473322.99,8540463514.25,38.29,44.1,46.55,49.0,38.28692859954619,percentual declarado no RGF,8.259999999999998,10.71,0.8100000000000023,confortável,5.0
+2023,BA,Bahia,Nordeste,14985284,3,Executivo,57229420301.19,57104634776.24,22830217611.12,39.98,43.74,46.17,48.6,39.97962284598861,percentual declarado no RGF,6.190000000000005,8.620000000000005,3.779999999999994,confortável,6.0
+2023,PI,Piauí,Nordeste,3289290,3,Executivo,15380829481.76,15352560354.63,6163781348.0,40.15,44.1,46.55,49.0,40.14823069001085,percentual declarado no RGF,6.399999999999999,8.850000000000001,-2.1000000000000014,confortável,7.0
+2023,AM,Amazonas,Norte,4269995,3,Executivo,22825805777.35,22714039476.11,9124096841.81,40.17,44.1,46.55,49.0,40.169415270262576,percentual declarado no RGF,6.3799999999999955,8.829999999999998,-0.9299999999999997,confortável,8.0
+2023,AP,Amapá,Norte,877613,3,Executivo,8040259665.33,8031196783.33,3350685150.87,41.72,44.1,46.55,49.0,41.72086976905944,percentual declarado no RGF,4.829999999999998,7.280000000000001,0.769999999999996,confortável,9.0
+2023,PA,Pará,Norte,8777124,3,Executivo,36266172141.21,36069091339.21,15235769121.25,42.24,43.74,46.17,48.6,42.240512736974594,percentual declarado no RGF,3.9299999999999997,6.359999999999999,3.3100000000000023,confortável,10.0
+2023,SP,São Paulo,Sudeste,46649132,3,Executivo,229658088101.43,229187318031.19,97009484315.71,42.33,44.1,46.55,49.0,42.32759698444921,percentual declarado no RGF,4.219999999999999,6.670000000000002,4.399999999999999,confortável,11.0
+2023,SC,Santa Catarina,Sul,7338473,3,Executivo,41178425490.53,41002835818.53,17465078733.58,42.59,44.1,46.55,49.0,42.59480688330144,percentual declarado no RGF,3.9599999999999937,6.409999999999997,0.7600000000000051,confortável,12.0
+2023,AL,Alagoas,Nordeste,3365351,3,Executivo,14465051819.55,14360996244.55,6177056413.83,43.01,44.1,46.55,49.0,43.01272912158997,percentual declarado no RGF,3.539999999999999,5.990000000000002,2.1099999999999994,atenção,13.0
+2023,GO,Goiás,Centro-Oeste,7206589,3,Executivo,38407128875.35,38364025884.94,16584481321.85,43.23,43.74,46.17,48.6,43.22925172553469,percentual declarado no RGF,2.940000000000005,5.3700000000000045,2.7099999999999937,atenção,14.0
+2023,PR,Paraná,Sul,11597484,3,Executivo,59565155117.88,59507658940.88,25727268595.51,43.23,44.1,46.55,49.0,43.23354178841025,percentual declarado no RGF,3.3200000000000003,5.770000000000003,2.549999999999997,atenção,14.0
+2023,SE,Sergipe,Nordeste,2338474,3,Executivo,12629587874.94,12555098860.32,5494301036.79,43.76,44.1,46.55,49.0,43.76151154137518,percentual declarado no RGF,2.789999999999999,5.240000000000002,-0.240000000000002,atenção,16.0
+2023,PE,Pernambuco,Nordeste,9674793,3,Executivo,37830131985.44,37789672693.56,16840395801.99,44.56,44.1,46.55,49.0,44.563486798497436,percentual declarado no RGF,1.9899999999999949,4.439999999999998,1.5300000000000011,alerta,17.0
+2023,MS,Mato Grosso do Sul,Centro-Oeste,2839188,3,Executivo,19756920699.77,19682982860.42,8786078548.49,44.64,44.1,46.55,49.0,44.637942382999775,percentual declarado no RGF,1.9099999999999966,4.359999999999999,5.509999999999998,alerta,18.0
+2023,CE,Ceará,Nordeste,9240580,3,Executivo,31973785169.88,31881281765.51,14260946217.11,44.73,44.1,46.55,49.0,44.731407984160356,percentual declarado no RGF,1.8200000000000003,4.270000000000003,1.8999999999999986,alerta,19.0
+2023,TO,Tocantins,Norte,1607363,3,Executivo,13094049260.01,12991895148.01,5829259009.36,44.87,44.1,46.55,49.0,44.8684271459263,percentual declarado no RGF,1.6799999999999997,4.130000000000003,5.519999999999996,alerta,20.0
+2023,RS,Rio Grande do Sul,Sul,11466630,3,Executivo,56639116676.26,56486501147.27,25438441651.21,45.03,44.1,46.55,49.0,45.034550086378374,percentual declarado no RGF,1.519999999999996,3.969999999999999,-2.8500000000000014,alerta,21.0
+2023,RJ,Rio de Janeiro,Sudeste,17463349,3,Executivo,88174564730.41,88174564730.41,41853220234.14,47.47,44.1,46.55,49.0,47.46631907070304,percentual declarado no RGF,-0.9200000000000017,1.5300000000000011,1.6400000000000006,acima do limite prudencial,22.0
+2023,PB,Paraíba,Nordeste,4059905,3,Executivo,16773627778.96,16766613327.76,8028664046.8,47.88,44.1,46.55,49.0,47.884828556922535,percentual declarado no RGF,-1.3300000000000054,1.1199999999999974,2.5500000000000043,acima do limite prudencial,23.0
+2023,AC,Acre,Norte,906876,3,Executivo,8573004133.41,8496046337.0,4113347412.24,48.41,44.1,46.55,49.0,48.414842022771325,percentual declarado no RGF,-1.8599999999999994,0.5900000000000034,2.049999999999997,acima do limite prudencial,24.0
+2023,RR,Roraima,Norte,652713,3,Executivo,6869054525.67,6818167472.81,3360323930.91,49.28,44.1,46.55,49.0,49.284854681416256,percentual declarado no RGF,-2.730000000000004,-0.28000000000000114,4.350000000000001,acima do limite máximo,25.0
+2023,MG,Minas Gerais,Sudeste,21411923,3,Executivo,92079439352.23,91978749210.59,47245316457.13,51.37,44.1,46.55,49.0,51.36546959228534,percentual declarado no RGF,-4.82,-2.3699999999999974,2.9299999999999997,acima do limite máximo,26.0
+2023,RN,Rio Grande do Norte,Nordeste,3560903,3,Executivo,16215892205.45,16182632436.45,9213643003.11,56.94,44.1,46.55,49.0,56.93537834028198,percentual declarado no RGF,-10.39,-7.939999999999998,3.5700000000000003,acima do limite máximo,27.0
+2024,MA,Maranhão,Nordeste,6800605,3,Executivo,29586751705.73,29521762934.73,9163249776.52,31.04,44.1,46.55,49.0,31.03896537879236,percentual declarado no RGF,15.509999999999998,17.96,-5.530000000000001,confortável,1.0
+2024,ES,Espírito Santo,Sudeste,3975100,3,Executivo,26359045239.21,26201081254.36,9445071057.65,36.05,44.1,46.55,49.0,36.04840184249377,percentual declarado no RGF,10.5,12.950000000000003,-2.240000000000002,confortável,2.0
+2024,AL,Alagoas,Nordeste,3125254,3,Executivo,16937628981.2,16855656906.2,6081912333.96,36.08,44.1,46.55,49.0,36.08232160754824,percentual declarado no RGF,10.469999999999999,12.920000000000002,-6.93,confortável,3.0
+2024,RO,Rondônia,Norte,1616379,3,Executivo,14214733174.14,14190334424.14,5308221759.41,37.41,44.1,46.55,49.0,37.40730556976781,percentual declarado no RGF,9.14,11.590000000000003,-0.8200000000000003,confortável,4.0
+2024,MT,Mato Grosso,Centro-Oeste,3784239,3,Executivo,33003632656.2,32886763926.2,12425266338.18,37.78,44.1,46.55,49.0,37.78196713444683,percentual declarado no RGF,8.769999999999996,11.219999999999999,0.28000000000000114,confortável,5.0
+2024,AM,Amazonas,Norte,3952262,3,Executivo,26591617078.66,26423983318.48,10243519421.27,38.77,44.1,46.55,49.0,38.76599261287773,percentual declarado no RGF,7.779999999999994,10.229999999999997,-1.3999999999999986,confortável,6.0
+2024,DF,Distrito Federal,Centro-Oeste,2923369,3,Executivo,36114673966.81,35826652617.08,14177016338.84,39.57,44.1,46.55,49.0,39.57114411543223,percentual declarado no RGF,6.979999999999997,9.43,4.770000000000003,confortável,7.0
+2024,SC,Santa Catarina,Sul,7762154,3,Executivo,46590341820.32,46437402114.32,18419358812.56,39.66,44.1,46.55,49.0,39.664920891171015,percentual declarado no RGF,6.890000000000001,9.340000000000003,-2.930000000000007,confortável,8.0
+2024,SE,Sergipe,Nordeste,2211868,3,Executivo,15308466568.23,15169854338.29,6124028436.09,40.37,44.1,46.55,49.0,40.36972471536811,percentual declarado no RGF,6.18,8.630000000000003,-3.3900000000000006,confortável,9.0
+2024,PA,Pará,Norte,8442962,3,Executivo,41204940048.11,40972569817.11,16615520322.16,40.55,43.74,46.17,48.6,40.552790309045776,percentual declarado no RGF,5.6200000000000045,8.050000000000004,-1.6900000000000048,confortável,10.0
+2024,PE,Pernambuco,Nordeste,9051113,3,Executivo,43811252907.17,43773481815.45,17749249738.52,40.55,44.1,46.55,49.0,40.54795049969121,percentual declarado no RGF,6.0,8.450000000000003,-4.010000000000005,confortável,10.0
+2024,BA,Bahia,Nordeste,14659023,3,Executivo,65047362383.36,64853815964.77,27008463740.78,41.65,43.74,46.17,48.6,41.645141984323,percentual declarado no RGF,4.520000000000003,6.950000000000003,1.6700000000000017,confortável,12.0
+2024,PI,Piauí,Nordeste,3270174,3,Executivo,17181161335.79,17101669200.12,7124416506.14,41.66,44.1,46.55,49.0,41.65918790014959,percentual declarado no RGF,4.890000000000001,7.340000000000003,1.509999999999998,confortável,13.0
+2024,GO,Goiás,Centro-Oeste,6950976,3,Executivo,42330061506.3,42238430239.42,17612043485.39,41.7,43.74,46.17,48.6,41.69672827697359,percentual declarado no RGF,4.469999999999999,6.899999999999999,-1.529999999999994,confortável,14.0
+2024,SP,São Paulo,Sudeste,46024937,3,Executivo,251366970706.76,250793910488.38,105811548439.06,42.19,44.1,46.55,49.0,42.1906370186618,percentual declarado no RGF,4.359999999999999,6.810000000000002,-0.14000000000000057,confortável,15.0
+2024,PR,Paraná,Sul,11835379,3,Executivo,66212591622.01,66084616647.01,28222023933.46,42.71,44.1,46.55,49.0,42.70589036508681,percentual declarado no RGF,3.8399999999999963,6.289999999999999,-0.519999999999996,confortável,16.0
+2024,AP,Amapá,Norte,774268,3,Executivo,8871334502.27,8857393483.27,3853904262.22,43.51,44.1,46.55,49.0,43.51059111802272,percentual declarado no RGF,3.039999999999999,5.490000000000002,1.7899999999999991,atenção,17.0
+2024,CE,Ceará,Nordeste,8936431,3,Executivo,36362436745.35,36164440163.06,15745937045.72,43.54,44.1,46.55,49.0,43.539833534610096,percentual declarado no RGF,3.009999999999998,5.460000000000001,-1.1899999999999977,atenção,18.0
+2024,RS,Rio Grande do Sul,Sul,11088065,3,Executivo,60043883382.48,59796150334.35,26144703960.3,43.72,44.1,46.55,49.0,43.72305543770287,percentual declarado no RGF,2.8299999999999983,5.280000000000001,-1.3100000000000023,atenção,19.0
+2024,MS,Mato Grosso do Sul,Centro-Oeste,2833742,3,Executivo,20382690674.77,20253127266.59,9153718882.94,45.2,44.1,46.55,49.0,45.19657020098903,percentual declarado no RGF,1.3499999999999943,3.799999999999997,0.5600000000000023,alerta,20.0
+2024,TO,Tocantins,Norte,1584306,3,Executivo,14655407399.67,14600906289.62,6762633313.54,46.32,44.1,46.55,49.0,46.31653117551789,percentual declarado no RGF,0.22999999999999687,2.6799999999999997,1.4500000000000028,alerta,21.0
+2024,RJ,Rio de Janeiro,Sudeste,16615526,3,Executivo,92764348281.93,92709068228.22,43354236120.93,46.76,44.1,46.55,49.0,46.7637491665926,percentual declarado no RGF,-0.21000000000000085,2.240000000000002,-0.7100000000000009,acima do limite prudencial,22.0
+2024,AC,Acre,Norte,829780,3,Executivo,10111234207.99,10002459245.99,4678325451.34,46.77,44.1,46.55,49.0,46.77175218899839,percentual declarado no RGF,-0.22000000000000597,2.229999999999997,-1.6399999999999935,acima do limite prudencial,23.0
+2024,RR,Roraima,Norte,634805,3,Executivo,7769605343.62,7746996007.26,3662385571.5,47.27,44.1,46.55,49.0,47.274912341091195,percentual declarado no RGF,-0.720000000000006,1.7299999999999969,-2.009999999999998,acima do limite prudencial,24.0
+2024,PB,Paraíba,Nordeste,4030961,3,Executivo,18928080527.4,18892082702.4,9119064123.72,48.27,44.1,46.55,49.0,48.26923673461125,percentual declarado no RGF,-1.720000000000006,0.7299999999999969,0.39000000000000057,acima do limite prudencial,25.0
+2024,MG,Minas Gerais,Sudeste,20732660,3,Executivo,103495630620.38,103465726489.95,50492145171.78,48.8,44.1,46.55,49.0,48.80084148124595,percentual declarado no RGF,-2.25,0.20000000000000284,-2.5700000000000003,acima do limite prudencial,26.0
+2024,RN,Rio Grande do Norte,Nordeste,3303953,3,Executivo,17259892416.73,17233040024.58,9919747911.85,57.56,44.1,46.55,49.0,57.56237957842125,percentual declarado no RGF,-11.010000000000005,-8.560000000000002,0.6200000000000045,acima do limite máximo,27.0
+2025,MA,Maranhão,Nordeste,6800605,3,Executivo,32451618353.68,32325883418.68,9741949014.51,30.14,44.1,46.55,49.0,30.13668300517494,percentual declarado no RGF,16.409999999999997,18.86,-0.8999999999999986,confortável,1.0
+2025,ES,Espírito Santo,Sudeste,3975100,3,Executivo,28084840124.16,28054497469.34,9932700147.95,35.41,44.1,46.55,49.0,35.405018959278024,percentual declarado no RGF,11.14,13.590000000000003,-0.6400000000000006,confortável,2.0
+2025,MT,Mato Grosso,Centro-Oeste,3784239,3,Executivo,37257271565.12,37063711759.12,13445354675.7,36.28,44.1,46.55,49.0,36.27633077626554,percentual declarado no RGF,10.269999999999996,12.719999999999999,-1.5,confortável,3.0
+2025,PI,Piauí,Nordeste,3270174,3,Executivo,18732289115.6,18659063456.64,7052417642.0,37.8,44.1,46.55,49.0,37.79620375046387,percentual declarado no RGF,8.75,11.200000000000003,-3.8599999999999994,confortável,4.0
+2025,PA,Pará,Norte,8442962,3,Executivo,44705086000.08,44657312944.14,17001181160.13,38.07,43.74,46.17,48.6,38.07031825089002,percentual declarado no RGF,8.100000000000001,10.530000000000001,-2.479999999999997,confortável,5.0
+2025,AM,Amazonas,Norte,3952262,3,Executivo,28566006549.35,28512531259.14,10861802556.78,38.09,44.1,46.55,49.0,38.09483787342849,percentual declarado no RGF,8.459999999999994,10.909999999999997,-0.6799999999999997,confortável,6.0
+2025,AP,Amapá,Norte,774268,3,Executivo,9704126943.38,9693533943.38,3727996559.8,38.46,44.1,46.55,49.0,38.45859086660504,percentual declarado no RGF,8.089999999999996,10.54,-5.049999999999997,confortável,7.0
+2025,RO,Rondônia,Norte,1616379,3,Executivo,15803769902.64,15800580902.64,6082163073.21,38.49,44.1,46.55,49.0,38.493287751172346,percentual declarado no RGF,8.059999999999995,10.509999999999998,1.0800000000000054,confortável,8.0
+2025,SC,Santa Catarina,Sul,7762154,3,Executivo,51032081150.54,50791492656.54,19664563400.03,38.72,44.1,46.55,49.0,38.71625418257511,percentual declarado no RGF,7.829999999999998,10.280000000000001,-0.9399999999999977,confortável,9.0
+2025,AL,Alagoas,Nordeste,3125254,3,Executivo,18967280537.43,18841974426.43,7304768267.73,38.77,44.1,46.55,49.0,38.76859241186243,percentual declarado no RGF,7.779999999999994,10.229999999999997,2.690000000000005,confortável,10.0
+2025,GO,Goiás,Centro-Oeste,6950976,3,Executivo,45370896917.06,45360605189.14,18124225657.46,39.96,43.74,46.17,48.6,39.95587268266696,percentual declarado no RGF,6.210000000000001,8.64,-1.740000000000002,confortável,11.0
+2025,BA,Bahia,Nordeste,14659023,3,Executivo,68995621759.51,68809425557.86,27772068635.09,40.36,43.74,46.17,48.6,40.36084941842337,percentual declarado no RGF,5.810000000000002,8.240000000000002,-1.2899999999999991,confortável,12.0
+2025,CE,Ceará,Nordeste,8936431,3,Executivo,39618216873.59,39414799676.81,16129113991.78,40.92,44.1,46.55,49.0,40.92146636297555,percentual declarado no RGF,5.6299999999999955,8.079999999999998,-2.6199999999999974,confortável,13.0
+2025,SE,Sergipe,Nordeste,2211868,3,Executivo,16487993056.83,16394897275.56,6759227737.39,41.23,44.1,46.55,49.0,41.227630913345415,percentual declarado no RGF,5.32,7.770000000000003,0.8599999999999994,confortável,14.0
+2025,SP,São Paulo,Sudeste,46024937,3,Executivo,266221395322.55,265761362580.37,109727119797.17,41.29,44.1,46.55,49.0,41.287837604304485,percentual declarado no RGF,5.259999999999998,7.710000000000001,-0.8999999999999986,confortável,15.0
+2025,PE,Pernambuco,Nordeste,9051113,3,Executivo,47205580146.41,47140952729.44,19474956876.37,41.31,44.1,46.55,49.0,41.31218345998275,percentual declarado no RGF,5.239999999999995,7.689999999999998,0.7600000000000051,confortável,16.0
+2025,DF,Distrito Federal,Centro-Oeste,2923369,3,Executivo,39201192140.12,39011021845.82,16175614683.65,41.46,44.1,46.55,49.0,41.464216824618255,percentual declarado no RGF,5.089999999999996,7.539999999999999,1.8900000000000006,confortável,17.0
+2025,PR,Paraná,Sul,11835379,3,Executivo,71133950007.5,71052802963.07,30171103608.45,42.46,44.1,46.55,49.0,42.46293228450334,percentual declarado no RGF,4.089999999999996,6.539999999999999,-0.25,confortável,18.0
+2025,RS,Rio Grande do Sul,Sul,11088065,3,Executivo,65232845641.12,65084660928.12,28739368022.57,44.16,44.1,46.55,49.0,44.15689904923985,percentual declarado no RGF,2.3900000000000006,4.840000000000003,0.4399999999999977,alerta,19.0
+2025,MS,Mato Grosso do Sul,Centro-Oeste,2833742,3,Executivo,22199300373.82,22108659805.36,9772219791.98,44.2,44.1,46.55,49.0,44.20086915268755,percentual declarado no RGF,2.3499999999999943,4.799999999999997,-1.0,alerta,20.0
+2025,TO,Tocantins,Norte,1584306,3,Executivo,15568042573.26,15523452300.73,6878739552.38,44.31,44.1,46.55,49.0,44.31191863202056,percentual declarado no RGF,2.239999999999995,4.689999999999998,-2.009999999999998,alerta,21.0
+2025,PB,Paraíba,Nordeste,4030961,3,Executivo,21120659776.55,21072805518.55,9426972908.7,44.74,44.1,46.55,49.0,44.73525321724064,percentual declarado no RGF,1.8099999999999952,4.259999999999998,-3.530000000000001,alerta,22.0
+2025,RR,Roraima,Norte,634805,3,Executivo,8612853167.57,8579606715.09,3843264326.03,44.8,44.1,46.55,49.0,44.79534381535674,percentual declarado no RGF,1.75,4.200000000000003,-2.470000000000006,alerta,23.0
+2025,RJ,Rio de Janeiro,Sudeste,16615526,3,Executivo,100556162133.43,100484883517.83,45958926684.55,45.74,44.1,46.55,49.0,45.737154759596315,percentual declarado no RGF,0.8099999999999952,3.259999999999998,-1.019999999999996,alerta,24.0
+2025,AC,Acre,Norte,829780,3,Executivo,11290138605.03,11190641912.27,5370260744.24,47.99,44.1,46.55,49.0,47.988853421819954,percentual declarado no RGF,-1.4400000000000048,1.009999999999998,1.2199999999999989,acima do limite prudencial,25.0
+2025,MG,Minas Gerais,Sudeste,20732660,3,Executivo,111739462561.63,111722744769.94,53869167715.23,48.22,44.1,46.55,49.0,48.21683160949692,percentual declarado no RGF,-1.6700000000000017,0.7800000000000011,-0.5799999999999983,acima do limite prudencial,26.0
+2025,RN,Rio Grande do Norte,Nordeste,3303953,3,Executivo,19513846659.98,19507449078.52,11004331905.62,56.41,44.1,46.55,49.0,56.41092211147723,percentual declarado no RGF,-9.86,-7.409999999999997,-1.1500000000000057,acima do limite máximo,27.0

@@ -1,0 +1,297 @@
+﻿ano,cod_conta,nomenclaturas_observadas
+2015,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2015,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2015,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF)
+2015,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2015,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2015,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2015,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2015,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2015,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2015,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2015,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b)
+2015,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)"
+2015,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)"
+2015,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)"
+2015,PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal,Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal
+2015,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2016,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2016,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2016,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF)
+2016,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2016,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2016,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2016,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2016,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2016,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2016,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2016,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b)
+2016,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)"
+2016,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)"
+2016,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)"
+2016,PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal,Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal
+2016,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2017,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2017,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2017,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF)
+2017,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2017,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2017,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2017,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2017,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2017,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2017,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2017,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb)
+2017,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF)"
+2017,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF)"
+2017,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF)"
+2017,PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal,Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal
+2017,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI)
+2017,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2017,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (V) (§13º, art. 166 da CF)"
+2018,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas"
+2018,BeneficiosPrevidenciarios,Benefícios Previdenciários
+2018,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2018,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2018,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização (§ 1º do art. 18 da LRF)
+2018,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2018,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2018,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2018,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2018,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2018,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2018,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2018,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb)
+2018,DespesasPensoesInativosEPensionistas,Pensões
+2018,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF)"
+2018,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF)"
+2018,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF)"
+2018,ObrigacoesPatronais,Obrigações Patronais
+2018,OutrosBeneficiosPrevidenciariosInativosEPensionistas,Outros Benefícios Previdenciários
+2018,PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal,Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal
+2018,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI)
+2018,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2018,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (V) (§13º, art. 166 da CF)"
+2018,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis"
+2019,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas"
+2019,BeneficiosPrevidenciarios,Benefícios Previdenciários
+2019,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2019,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2019,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF)
+2019,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2019,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2019,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2019,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2019,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2019,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2019,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2019,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (VII) = (IIIa + IIIb)
+2019,DespesasPensoesInativosEPensionistas,Pensões
+2019,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (X) = (0,90 x VIII) (inciso II do §1º do art. 59 da LRF)"
+2019,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VIII) (incisos I, II e III, art. 20 da LRF)"
+2019,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (IX) = (0,95 x VIII) (parágrafo único do art. 22 da LRF)"
+2019,ObrigacoesPatronais,Obrigações Patronais
+2019,OutrosBeneficiosPrevidenciariosInativosEPensionistas,Outros Benefícios Previdenciários
+2019,PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal,Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal
+2019,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA (VI)
+2019,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2019,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (V) (§13º, art. 166 da CF)"
+2019,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis"
+2020,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas"
+2020,BeneficiosPrevidenciarios,Benefícios Previdenciários
+2020,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2020,DespesaComPessoalAtivoBrutaEnteConsorciado,Pessoal Ativo
+2020,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2020,DespesaComPessoalBrutaEnteConsorciado,DESPESA BRUTA COM PESSOAL (I)
+2020,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF)
+2020,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2020,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2020,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2020,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2020,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2020,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2020,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2020,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II) | DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb)
+2020,DespesasPensoesInativosEPensionistas,Pensões
+2020,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF)"
+2020,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF)"
+2020,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF)"
+2020,ObrigacoesPatronais,Obrigações Patronais
+2020,OutrosBeneficiosPrevidenciariosInativosEPensionistas,Outros Benefícios Previdenciários
+2020,PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal,Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal
+2020,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (IV - V - VI)
+2020,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2020,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada,"(-) Transferências Obrigatórias da União relativas às Emendas de Bancada (art. 166, § 16, da CF) (VI)"
+2020,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V)"
+2020,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis"
+2021,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas"
+2021,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2021,DespesaComPessoalAtivoBrutaEnteConsorciado,Pessoal Ativo
+2021,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2021,DespesaComPessoalBrutaEnteConsorciado,DESPESA BRUTA COM PESSOAL (I)
+2021,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF)
+2021,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2021,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2021,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2021,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2021,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2021,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2021,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2021,DespesaComPessoalNaoExecutadaOrcamentariamente,Despesa com Pessoal não Executada Orçamentariamente
+2021,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II) | DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb)
+2021,DespesasPensoesInativosEPensionistas,Pensões
+2021,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF)"
+2021,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF)"
+2021,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF)"
+2021,ObrigacoesPatronais,Obrigações Patronais
+2021,PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal,Percentual Trajetória de Retorno ao Limite da Despesa Total com Pessoal
+2021,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (IV - V - VI)
+2021,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2021,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada,"(-) Transferências Obrigatórias da União relativas às Emendas de Bancada (art. 166, § 16, da CF) (VI)"
+2021,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V)"
+2021,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis"
+2022,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas"
+2022,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2022,DespesaComPessoalAtivoBrutaEnteConsorciado,Pessoal Ativo
+2022,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2022,DespesaComPessoalBrutaEnteConsorciado,DESPESA BRUTA COM PESSOAL (I)
+2022,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF)
+2022,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBrutaEnteConsorciado,Outras despesas de pessoal decorrentes de contratos de terceirização ou de contratação de forma indireta (§ 1º art. 18 da LRF)
+2022,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2022,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2022,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2022,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2022,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2022,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2022,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2022,DespesaComPessoalNaoExecutadaOrcamentariamente,Despesa com Pessoal não Executada Orçamentariamente
+2022,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II) | DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb)
+2022,DespesaTotalComPessoalPercentual2021,DTP em 2021 (XII) (%)
+2022,DespesaTotalComPessoalTrajetoriaDeRetornoAoLimite,DESPESA TOTAL COM PESSOAL - DTP (VIII)
+2022,DespesasPensoesInativosEPensionistas,Pensões
+2022,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF)"
+2022,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF)"
+2022,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF)"
+2022,ObrigacoesPatronais,Obrigações Patronais
+2022,PercentualDespesaTotalComPessoal,% DTP (VIII / VII)
+2022,PercentualExcedenteDespesaComPessoal,Excedente em 2021 (XIII) = (XII - IX) (%)
+2022,PercentualLimiteArt15LC178,LIMITE CONFORME ART. 15 DA LC 178/2021 (%)
+2022,PercentualLimiteMaximo,"Limite Máximo (IX) (%) (LRF, art. 20)"
+2022,PercentualRedutorAnualDespesaComPessoal,"Redutor anual (XIV) = (0,10 x XIII) (%)"
+2022,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (IV - V - VI)
+2022,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2022,ReceitaCorrenteLiquidaTrajetoriaDeRetornoAoLimite,RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII)
+2022,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada,"(-) Transferências Obrigatórias da União relativas às Emendas de Bancada (art. 166, § 16, da CF) (VI)"
+2022,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V)"
+2022,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis"
+2023,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas"
+2023,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2023,DespesaComPessoalAtivoBrutaEnteConsorciado,Pessoal Ativo
+2023,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2023,DespesaComPessoalBrutaEnteConsorciado,DESPESA BRUTA COM PESSOAL (I)
+2023,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF)
+2023,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBrutaEnteConsorciado,Outras despesas de pessoal decorrentes de contratos de terceirização ou de contratação de forma indireta (§ 1º art. 18 da LRF)
+2023,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2023,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2023,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2023,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2023,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2023,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2023,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária e Deduções Constitucionais
+2023,DespesaComPessoalNaoExecutadaOrcamentariamente,Despesa com Pessoal não Executada Orçamentariamente
+2023,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II) | DESPESA TOTAL COM PESSOAL - DTP (VIII) = (IIIa + IIIb)
+2023,DespesaTotalComPessoalPercentual2021,DTP em 2021 (XII) (%)
+2023,DespesaTotalComPessoalTrajetoriaDeRetornoAoLimite,DESPESA TOTAL COM PESSOAL - DTP (VIII)
+2023,DespesasPensoesInativosEPensionistas,Pensões
+2023,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (XI) = (0,90 x IX) (inciso II do §1º do art. 59 da LRF)"
+2023,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (IX) (incisos I, II e III, art. 20 da LRF)"
+2023,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (X) = (0,95 x IX) (parágrafo único do art. 22 da LRF)"
+2023,ObrigacoesPatronais,Obrigações Patronais
+2023,PercentualDespesaTotalComPessoal,% DTP (VIII / VII)
+2023,PercentualExcedenteDespesaComPessoal,Excedente em 2021 (XIII) = (XII - IX) (%)
+2023,PercentualLimiteArt15LC178,LIMITE CONFORME ART. 15 DA LC 178/2021 (%)
+2023,PercentualLimiteMaximo,"Limite Máximo (IX) (%) (LRF, art. 20)"
+2023,PercentualRedutorAnualDespesaComPessoal,"Redutor anual (XIV) = (0,10 x XIII) (%)"
+2023,PercentualTrajetoriaRetornoAoLimiteDaDespesaTotalComPessoal,Valores Percentuais
+2023,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (IV - V - VI)
+2023,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2023,ReceitaCorrenteLiquidaTrajetoriaDeRetornoAoLimite,RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII)
+2023,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada,"(-) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF) e ao vencimento dos agentes comunitários de saúde e de combate às endemias (CF, art. 198, §11) (VI)"
+2023,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF) (V)"
+2023,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis"
+2024,AgentesComunitariosDeSaudeEDeCombateAsEndemiasComRecursosVinculados,"Agentes Comunitários de Saúde e de Combate às Endemias com Recursos Vinculados (CF, art. 198, §11)"
+2024,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas"
+2024,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2024,DespesaComPessoalAtivoBrutaEnteConsorciado,Pessoal Ativo
+2024,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2024,DespesaComPessoalBrutaEnteConsorciado,DESPESA BRUTA COM PESSOAL (I)
+2024,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF)
+2024,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBrutaEnteConsorciado,Outras despesas de pessoal decorrentes de contratos de terceirização ou de contratação de forma indireta (§ 1º art. 18 da LRF)
+2024,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2024,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2024,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2024,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2024,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2024,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2024,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2024,DespesaComPessoalNaoExecutadaOrcamentariamente,Despesa com Pessoal não Executada Orçamentariamente
+2024,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II) | DESPESA TOTAL COM PESSOAL - DTP (VI) = (IIIa + IIIb)
+2024,DespesaTotalComPessoalPercentual2021,DTP em 2021 (X) (%)
+2024,DespesaTotalComPessoalTrajetoriaDeRetornoAoLimite,DESPESA TOTAL COM PESSOAL - DTP (VI)
+2024,DespesasPensoesInativosEPensionistas,Pensões
+2024,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (IX) = (0,90 x VII) (inciso II do §1º do art. 59 da LRF)"
+2024,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VII) (incisos I, II e III, art. 20 da LRF)"
+2024,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (VIII) = (0,95 x VII) (parágrafo único do art. 22 da LRF)"
+2024,ObrigacoesPatronais,Obrigações Patronais
+2024,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)"
+2024,PercentualDespesaTotalComPessoal,% DTP (VI / V)
+2024,PercentualExcedenteDespesaComPessoal,Excedente em 2021 (XI) = (X - VII) (%)
+2024,PercentualLimiteArt15LC178,LIMITE CONFORME ART. 15 DA LC 178/2021 (%)
+2024,PercentualLimiteMaximo,"Limite Máximo (VII) (%) (LRF, art. 20)"
+2024,PercentualRedutorAnualDespesaComPessoal,"Redutor anual (XII) = (0,10 x XI) (%)"
+2024,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (V)
+2024,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2024,ReceitaCorrenteLiquidaTrajetoriaDeRetornoAoLimite,RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (V)
+2024,TransferenciasDaUniaoRelativasARemuneracaoDosAgentesComunitariosDeSaude,"(-) Transferências da União relativas à remuneração dos agentes comunitários de saúde e de combate às endemias (CF, art. 198, §11)"
+2024,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada,"(-) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF)"
+2024,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF)"
+2024,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis"
+2025,AgentesComunitariosDeSaudeEDeCombateAsEndemiasComRecursosVinculados,"Agentes Comunitários de Saúde e de Combate às Endemias com Recursos Vinculados (CF, art. 198, §11)"
+2025,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas"
+2025,DespesaComPessoalAtivoBruta,Pessoal Ativo
+2025,DespesaComPessoalAtivoBrutaEnteConsorciado,Pessoal Ativo
+2025,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I)
+2025,DespesaComPessoalBrutaEnteConsorciado,DESPESA BRUTA COM PESSOAL (I)
+2025,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBruta,Outras Despesas de Pessoal decorrentes de Contratos de Terceirização ou de contratação de forma indireta (§ 1º do art. 18 da LRF)
+2025,DespesaComPessoalDecorrenteDeTerceirizacaoPorSubstituicaoBrutaEnteConsorciado,Outras despesas de pessoal decorrentes de contratos de terceirização ou de contratação de forma indireta (§ 1º art. 18 da LRF)
+2025,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas
+2025,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)
+2025,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)
+2025,DespesaComPessoalNaoComputadaDecisaoJudicialPeriodoAnteriorAoDaApuracao,Decorrentes de Decisão Judicial de Período Anterior ao da Apuração
+2025,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração
+2025,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados
+2025,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária
+2025,DespesaComPessoalNaoExecutadaOrcamentariamente,Despesa com Pessoal não Executada Orçamentariamente
+2025,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (III) = (I - II) | DESPESA TOTAL COM PESSOAL - DTP (VI) = (IIIa + IIIb)
+2025,DespesaTotalComPessoalPercentual2021,DTP em 2021 (X) (%)
+2025,DespesaTotalComPessoalTrajetoriaDeRetornoAoLimite,DESPESA TOTAL COM PESSOAL - DTP (VI)
+2025,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais
+2025,DespesasPensoesInativosEPensionistas,Pensões
+2025,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (IX) = (0,90 x VII) (inciso II do §1º do art. 59 da LRF)"
+2025,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VII) (incisos I, II e III, art. 20 da LRF)"
+2025,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (VIII) = (0,95 x VII) (parágrafo único do art. 22 da LRF)"
+2025,ObrigacoesPatronais,Obrigações Patronais
+2025,OutrasDeducoesConstitucionaisOuLegais,(-) Outras Deduções Constitucionais ou Legais
+2025,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)"
+2025,PercentualDespesaTotalComPessoal,% DTP (VI / V)
+2025,PercentualExcedenteDespesaComPessoal,Excedente em 2021 (XI) = (X - VII) (%)
+2025,PercentualLimiteArt15LC178,LIMITE CONFORME ART. 15 DA LC 178/2021 (%)
+2025,PercentualLimiteMaximo,"Limite Máximo (VII) (%) (LRF, art. 20)"
+2025,PercentualRedutorAnualDespesaComPessoal,"Redutor anual (XII) = (0,10 x XI) (%)"
+2025,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (V)
+2025,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV)
+2025,ReceitaCorrenteLiquidaTrajetoriaDeRetornoAoLimite,RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (V)
+2025,TransferenciasDaUniaoRelativasARemuneracaoDosAgentesComunitariosDeSaude,"(-) Transferências da União relativas à remuneração dos agentes comunitários de saúde e de combate às endemias (CF, art. 198, §11)"
+2025,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada,"(-) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF)"
+2025,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF)"
+2025,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis"

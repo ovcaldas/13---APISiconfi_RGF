@@ -1,0 +1,298 @@
+﻿ano,ranking_ano,UF,nome_estado,DTP_RCL,Limite_Alerta,Limite_Prudencial,Limite_Maximo,situacao_fiscal
+2015,1.0,RJ,Rio de Janeiro,33.48,44.1,46.55,49.0,confortável
+2015,2.0,PI,Piauí,42.7,44.1,46.55,49.0,confortável
+2015,3.0,MA,Maranhão,42.87,44.1,46.55,49.0,confortável
+2015,4.0,ES,Espírito Santo,43.39,44.1,46.55,49.0,atenção
+2015,5.0,AP,Amapá,43.42,44.1,46.55,49.0,atenção
+2015,6.0,RO,Rondônia,44.39,44.1,46.55,49.0,alerta
+2015,7.0,MS,Mato Grosso do Sul,45.83,44.1,46.55,49.0,alerta
+2015,8.0,CE,Ceará,45.93,43.74,46.17,48.6,alerta
+2015,9.0,PE,Pernambuco,46.19,44.1,46.55,49.0,alerta
+2015,10.0,PR,Paraná,46.23,44.1,46.55,49.0,alerta
+2015,11.0,SP,São Paulo,46.28,44.1,46.55,49.0,alerta
+2015,12.0,DF,Distrito Federal,46.78,44.1,46.55,49.0,acima do limite prudencial
+2015,13.0,RR,Roraima,47.31,44.1,46.55,49.0,acima do limite prudencial
+2015,14.0,PA,Pará,47.33,43.74,46.17,48.6,acima do limite prudencial
+2015,15.0,BA,Bahia,47.61,,,,confortável
+2015,16.0,SE,Sergipe,47.82,44.1,46.55,49.0,acima do limite prudencial
+2015,17.0,MG,Minas Gerais,47.91,44.1,46.55,49.0,acima do limite prudencial
+2015,18.0,AM,Amazonas,47.98,44.1,46.55,49.0,acima do limite prudencial
+2015,19.0,AL,Alagoas,48.35,44.1,46.55,49.0,acima do limite prudencial
+2015,19.0,SC,Santa Catarina,48.35,44.1,46.55,49.0,acima do limite prudencial
+2015,21.0,GO,Goiás,48.44,43.74,46.17,48.6,acima do limite prudencial
+2015,22.0,AC,Acre,48.8,44.1,46.55,49.0,acima do limite prudencial
+2015,23.0,RS,Rio Grande do Sul,49.18,44.1,46.55,49.0,acima do limite máximo
+2015,24.0,MT,Mato Grosso,49.74,44.1,46.55,49.0,acima do limite máximo
+2015,25.0,PB,Paraíba,51.51,44.1,46.55,49.0,acima do limite máximo
+2015,26.0,TO,Tocantins,52.28,44.1,46.55,49.0,acima do limite máximo
+2015,27.0,RN,Rio Grande do Norte,52.53,44.1,46.55,49.0,acima do limite máximo
+2016,1.0,AP,Amapá,38.97,44.1,46.55,49.0,confortável
+2016,2.0,MA,Maranhão,38.98,44.1,46.55,49.0,confortável
+2016,3.0,CE,Ceará,40.68,43.74,46.17,48.6,confortável
+2016,4.0,PI,Piauí,41.6,44.1,46.55,49.0,confortável
+2016,5.0,RO,Rondônia,41.68,44.1,46.55,49.0,confortável
+2016,6.0,RR,Roraima,42.68,44.1,46.55,49.0,confortável
+2016,7.0,MS,Mato Grosso do Sul,43.15,44.1,46.55,49.0,atenção
+2016,8.0,ES,Espírito Santo,43.33,44.1,46.55,49.0,atenção
+2016,9.0,RS,Rio Grande do Sul,44.1,44.1,46.55,49.0,atenção
+2016,10.0,PA,Pará,44.62,43.74,46.17,48.6,alerta
+2016,11.0,AC,Acre,45.21,44.1,46.55,49.0,alerta
+2016,12.0,MT,Mato Grosso,45.33,44.1,46.55,49.0,alerta
+2016,13.0,PR,Paraná,45.39,44.1,46.55,49.0,alerta
+2016,14.0,PE,Pernambuco,45.77,44.1,46.55,49.0,alerta
+2016,15.0,AL,Alagoas,45.97,44.1,46.55,49.0,alerta
+2016,16.0,BA,Bahia,46.32,43.74,46.17,48.6,acima do limite prudencial
+2016,17.0,SP,São Paulo,46.4,44.1,46.55,49.0,alerta
+2016,18.0,GO,Goiás,46.74,43.74,46.17,48.6,acima do limite prudencial
+2016,19.0,DF,Distrito Federal,46.82,44.1,46.55,49.0,acima do limite prudencial
+2016,20.0,AM,Amazonas,47.21,44.1,46.55,49.0,acima do limite prudencial
+2016,20.0,SE,Sergipe,47.21,44.1,46.55,49.0,acima do limite prudencial
+2016,22.0,SC,Santa Catarina,47.81,44.1,46.55,49.0,acima do limite prudencial
+2016,23.0,TO,Tocantins,48.34,44.1,46.55,49.0,acima do limite prudencial
+2016,24.0,PB,Paraíba,48.55,44.1,46.55,49.0,acima do limite prudencial
+2016,25.0,MG,Minas Gerais,49.29,44.1,46.55,49.0,acima do limite máximo
+2016,26.0,RN,Rio Grande do Norte,53.97,44.1,46.55,49.0,acima do limite máximo
+2016,27.0,RJ,Rio de Janeiro,61.73,44.1,46.55,49.0,acima do limite máximo
+2017,1.0,GO,Goiás,39.3,43.74,46.17,48.6,confortável
+2017,2.0,RN,Rio Grande do Norte,41.23,44.1,46.55,49.0,confortável
+2017,3.0,MA,Maranhão,41.38,44.1,46.55,49.0,confortável
+2017,4.0,CE,Ceará,42.45,44.1,46.55,49.0,confortável
+2017,5.0,AP,Amapá,42.73,44.1,46.55,49.0,confortável
+2017,6.0,BA,Bahia,43.06,43.74,46.17,48.6,atenção
+2017,7.0,ES,Espírito Santo,43.3,44.1,46.55,49.0,atenção
+2017,8.0,RO,Rondônia,43.32,44.1,46.55,49.0,atenção
+2017,9.0,SP,São Paulo,43.43,44.1,46.55,49.0,atenção
+2017,10.0,PA,Pará,45.08,43.74,46.17,48.6,alerta
+2017,11.0,PR,Paraná,45.13,,,,confortável
+2017,12.0,DF,Distrito Federal,46.07,44.1,46.55,49.0,alerta
+2017,13.0,RS,Rio Grande do Sul,46.54,44.1,46.55,49.0,alerta
+2017,14.0,PB,Paraíba,47.41,44.1,46.55,49.0,acima do limite prudencial
+2017,15.0,SE,Sergipe,47.65,44.1,46.55,49.0,acima do limite prudencial
+2017,16.0,MT,Mato Grosso,47.69,44.1,46.55,49.0,acima do limite prudencial
+2017,17.0,PI,Piauí,47.74,44.1,46.55,49.0,acima do limite prudencial
+2017,18.0,AM,Amazonas,47.78,44.1,46.55,49.0,acima do limite prudencial
+2017,19.0,AL,Alagoas,48.63,44.1,46.55,49.0,acima do limite prudencial
+2017,20.0,PE,Pernambuco,48.97,44.1,46.55,49.0,acima do limite prudencial
+2017,21.0,MS,Mato Grosso do Sul,48.99,44.1,46.55,49.0,acima do limite prudencial
+2017,21.0,RR,Roraima,48.99,44.1,46.55,49.0,acima do limite prudencial
+2017,23.0,SC,Santa Catarina,49.97,44.1,46.55,49.0,acima do limite máximo
+2017,24.0,MG,Minas Gerais,50.0,44.1,46.55,49.0,acima do limite máximo
+2017,25.0,AC,Acre,53.86,44.1,46.55,49.0,acima do limite máximo
+2017,26.0,TO,Tocantins,54.99,44.1,46.55,49.0,acima do limite máximo
+2017,27.0,RJ,Rio de Janeiro,57.27,44.1,46.55,49.0,acima do limite máximo
+2018,1.0,RJ,Rio de Janeiro,37.36,44.1,46.55,49.0,confortável
+2018,2.0,AP,Amapá,40.07,44.1,46.55,49.0,confortável
+2018,3.0,ES,Espírito Santo,41.69,44.1,46.55,49.0,confortável
+2018,4.0,RO,Rondônia,41.92,44.1,46.55,49.0,confortável
+2018,5.0,CE,Ceará,42.3,44.1,46.55,49.0,confortável
+2018,6.0,SP,São Paulo,43.36,44.1,46.55,49.0,atenção
+2018,7.0,DF,Distrito Federal,43.46,44.1,46.55,49.0,atenção
+2018,8.0,GO,Goiás,44.34,43.74,46.17,48.6,alerta
+2018,9.0,PR,Paraná,44.57,44.1,46.55,49.0,alerta
+2018,10.0,RR,Roraima,45.44,44.1,46.55,49.0,alerta
+2018,11.0,BA,Bahia,46.13,43.74,46.17,48.6,alerta
+2018,12.0,RS,Rio Grande do Sul,46.59,44.1,46.55,49.0,acima do limite prudencial
+2018,13.0,MA,Maranhão,46.83,44.1,46.55,49.0,acima do limite prudencial
+2018,14.0,PA,Pará,47.16,43.74,46.17,48.6,acima do limite prudencial
+2018,15.0,MS,Mato Grosso do Sul,47.22,44.1,46.55,49.0,acima do limite prudencial
+2018,16.0,SE,Sergipe,47.52,44.1,46.55,49.0,acima do limite prudencial
+2018,17.0,PE,Pernambuco,47.94,44.1,46.55,49.0,acima do limite prudencial
+2018,18.0,AC,Acre,48.01,44.1,46.55,49.0,acima do limite prudencial
+2018,19.0,AM,Amazonas,48.33,44.1,46.55,49.0,acima do limite prudencial
+2018,20.0,PI,Piauí,48.52,44.1,46.55,49.0,acima do limite prudencial
+2018,21.0,AL,Alagoas,48.69,44.1,46.55,49.0,acima do limite prudencial
+2018,22.0,SC,Santa Catarina,48.76,44.1,46.55,49.0,acima do limite prudencial
+2018,23.0,PB,Paraíba,50.61,44.1,46.55,49.0,acima do limite máximo
+2018,24.0,MT,Mato Grosso,57.89,44.1,46.55,49.0,acima do limite máximo
+2018,24.0,TO,Tocantins,57.89,44.1,46.55,49.0,acima do limite máximo
+2018,26.0,RN,Rio Grande do Norte,63.64,44.1,46.55,49.0,acima do limite máximo
+2018,27.0,MG,Minas Gerais,66.65,44.1,46.55,49.0,acima do limite máximo
+2019,1.0,ES,Espírito Santo,36.34,44.1,46.55,49.0,confortável
+2019,2.0,AP,Amapá,39.25,44.1,46.55,49.0,confortável
+2019,3.0,RJ,Rio de Janeiro,39.31,44.1,46.55,49.0,confortável
+2019,4.0,RO,Rondônia,39.87,44.1,46.55,49.0,confortável
+2019,5.0,CE,Ceará,41.64,44.1,46.55,49.0,confortável
+2019,6.0,MA,Maranhão,43.26,44.1,46.55,49.0,atenção
+2019,7.0,PA,Pará,43.52,43.74,46.17,48.6,atenção
+2019,8.0,DF,Distrito Federal,43.54,44.1,46.55,49.0,atenção
+2019,9.0,BA,Bahia,43.85,43.74,46.17,48.6,alerta
+2019,10.0,SP,São Paulo,44.4,44.1,46.55,49.0,alerta
+2019,11.0,AL,Alagoas,44.71,44.1,46.55,49.0,alerta
+2019,12.0,PR,Paraná,45.18,44.1,46.55,49.0,alerta
+2019,13.0,RS,Rio Grande do Sul,45.6,44.1,46.55,49.0,alerta
+2019,14.0,RR,Roraima,45.73,44.1,46.55,49.0,alerta
+2019,15.0,SC,Santa Catarina,45.75,44.1,46.55,49.0,alerta
+2019,16.0,SE,Sergipe,46.84,44.1,46.55,49.0,acima do limite prudencial
+2019,17.0,PE,Pernambuco,46.91,44.1,46.55,49.0,acima do limite prudencial
+2019,18.0,TO,Tocantins,46.92,44.1,46.55,49.0,acima do limite prudencial
+2019,19.0,MS,Mato Grosso do Sul,47.08,44.1,46.55,49.0,acima do limite prudencial
+2019,20.0,PI,Piauí,48.12,44.1,46.55,49.0,acima do limite prudencial
+2019,21.0,PB,Paraíba,48.86,44.1,46.55,49.0,acima do limite prudencial
+2019,22.0,GO,Goiás,49.39,43.74,46.17,48.6,acima do limite máximo
+2019,23.0,AM,Amazonas,49.65,44.1,46.55,49.0,acima do limite máximo
+2019,24.0,MT,Mato Grosso,52.38,44.1,46.55,49.0,acima do limite máximo
+2019,25.0,AC,Acre,53.74,44.1,46.55,49.0,acima do limite máximo
+2019,26.0,MG,Minas Gerais,58.42,44.1,46.55,49.0,acima do limite máximo
+2019,27.0,RN,Rio Grande do Norte,60.56,44.1,46.55,49.0,acima do limite máximo
+2020,1.0,MA,Maranhão,37.51,44.1,46.55,49.0,confortável
+2020,2.0,RO,Rondônia,37.57,44.1,46.55,49.0,confortável
+2020,3.0,PA,Pará,38.69,43.74,46.17,48.6,confortável
+2020,4.0,ES,Espírito Santo,38.81,44.1,46.55,49.0,confortável
+2020,5.0,PI,Piauí,39.29,44.1,46.55,49.0,confortável
+2020,6.0,AL,Alagoas,39.78,44.1,46.55,49.0,confortável
+2020,7.0,CE,Ceará,40.55,44.1,46.55,49.0,confortável
+2020,8.0,BA,Bahia,40.95,43.74,46.17,48.6,confortável
+2020,9.0,MS,Mato Grosso do Sul,41.87,44.1,46.55,49.0,confortável
+2020,10.0,DF,Distrito Federal,42.05,44.1,46.55,49.0,confortável
+2020,11.0,RR,Roraima,42.35,44.1,46.55,49.0,confortável
+2020,12.0,RS,Rio Grande do Sul,42.49,44.1,46.55,49.0,confortável
+2020,13.0,MT,Mato Grosso,44.24,44.1,46.55,49.0,alerta
+2020,14.0,GO,Goiás,44.91,43.74,46.17,48.6,alerta
+2020,15.0,SC,Santa Catarina,44.92,44.1,46.55,49.0,alerta
+2020,16.0,TO,Tocantins,45.27,44.1,46.55,49.0,alerta
+2020,17.0,AP,Amapá,45.46,44.1,46.55,49.0,alerta
+2020,18.0,SP,São Paulo,45.48,44.1,46.55,49.0,alerta
+2020,19.0,PR,Paraná,45.76,44.1,46.55,49.0,alerta
+2020,20.0,PE,Pernambuco,45.8,44.1,46.55,49.0,alerta
+2020,21.0,RJ,Rio de Janeiro,46.53,44.1,46.55,49.0,alerta
+2020,22.0,SE,Sergipe,47.38,44.1,46.55,49.0,acima do limite prudencial
+2020,23.0,AM,Amazonas,48.35,44.1,46.55,49.0,acima do limite prudencial
+2020,24.0,PB,Paraíba,51.24,44.1,46.55,49.0,acima do limite máximo
+2020,25.0,AC,Acre,52.69,44.1,46.55,49.0,acima do limite máximo
+2020,26.0,MG,Minas Gerais,53.93,44.1,46.55,49.0,acima do limite máximo
+2020,27.0,RN,Rio Grande do Norte,54.81,44.1,46.55,49.0,acima do limite máximo
+2021,1.0,ES,Espírito Santo,34.81,44.1,46.55,49.0,confortável
+2021,2.0,BA,Bahia,35.57,43.74,46.17,48.6,confortável
+2021,3.0,AL,Alagoas,35.6,44.1,46.55,49.0,confortável
+2021,4.0,RO,Rondônia,36.77,44.1,46.55,49.0,confortável
+2021,5.0,MA,Maranhão,37.46,44.1,46.55,49.0,confortável
+2021,6.0,MT,Mato Grosso,37.67,44.1,46.55,49.0,confortável
+2021,7.0,GO,Goiás,38.28,43.74,46.17,48.6,confortável
+2021,7.0,RR,Roraima,38.28,44.1,46.55,49.0,confortável
+2021,9.0,SP,São Paulo,38.69,44.1,46.55,49.0,confortável
+2021,10.0,CE,Ceará,39.01,44.1,46.55,49.0,confortável
+2021,11.0,DF,Distrito Federal,39.52,44.1,46.55,49.0,confortável
+2021,12.0,PI,Piauí,40.28,44.1,46.55,49.0,confortável
+2021,13.0,PA,Pará,40.29,43.74,46.17,48.6,confortável
+2021,14.0,TO,Tocantins,40.31,44.1,46.55,49.0,confortável
+2021,15.0,RJ,Rio de Janeiro,40.59,44.1,46.55,49.0,confortável
+2021,16.0,MS,Mato Grosso do Sul,40.62,44.1,46.55,49.0,confortável
+2021,17.0,PE,Pernambuco,41.04,44.1,46.55,49.0,confortável
+2021,18.0,RS,Rio Grande do Sul,41.37,44.1,46.55,49.0,confortável
+2021,19.0,PR,Paraná,42.19,44.1,46.55,49.0,confortável
+2021,20.0,AP,Amapá,42.32,44.1,46.55,49.0,confortável
+2021,21.0,SC,Santa Catarina,43.14,44.1,46.55,49.0,atenção
+2021,22.0,SE,Sergipe,44.81,44.1,46.55,49.0,alerta
+2021,23.0,AM,Amazonas,46.7,44.1,46.55,49.0,acima do limite prudencial
+2021,24.0,PB,Paraíba,47.39,44.1,46.55,49.0,acima do limite prudencial
+2021,25.0,MG,Minas Gerais,48.68,44.1,46.55,49.0,acima do limite prudencial
+2021,26.0,AC,Acre,51.44,44.1,46.55,49.0,acima do limite máximo
+2021,27.0,RN,Rio Grande do Norte,54.57,44.1,46.55,49.0,acima do limite máximo
+2022,1.0,MA,Maranhão,30.98,44.1,46.55,49.0,confortável
+2022,2.0,BA,Bahia,36.2,43.74,46.17,48.6,confortável
+2022,3.0,MT,Mato Grosso,36.25,44.1,46.55,49.0,confortável
+2022,4.0,ES,Espírito Santo,37.48,44.1,46.55,49.0,confortável
+2022,5.0,SP,São Paulo,37.93,44.1,46.55,49.0,confortável
+2022,6.0,PA,Pará,38.93,43.74,46.17,48.6,confortável
+2022,7.0,MS,Mato Grosso do Sul,39.13,44.1,46.55,49.0,confortável
+2022,8.0,RO,Rondônia,39.25,44.1,46.55,49.0,confortável
+2022,9.0,TO,Tocantins,39.35,44.1,46.55,49.0,confortável
+2022,10.0,GO,Goiás,40.52,43.74,46.17,48.6,confortável
+2022,11.0,PR,Paraná,40.68,44.1,46.55,49.0,confortável
+2022,12.0,AL,Alagoas,40.9,44.1,46.55,49.0,confortável
+2022,13.0,AP,Amapá,40.95,44.1,46.55,49.0,confortável
+2022,14.0,AM,Amazonas,41.1,44.1,46.55,49.0,confortável
+2022,15.0,SC,Santa Catarina,41.83,44.1,46.55,49.0,confortável
+2022,16.0,PI,Piauí,42.25,44.1,46.55,49.0,confortável
+2022,17.0,CE,Ceará,42.83,44.1,46.55,49.0,confortável
+2022,18.0,PE,Pernambuco,43.03,44.1,46.55,49.0,atenção
+2022,19.0,SE,Sergipe,44.0,44.1,46.55,49.0,atenção
+2022,20.0,DF,Distrito Federal,44.17,44.1,46.55,49.0,alerta
+2022,21.0,RR,Roraima,44.93,44.1,46.55,49.0,alerta
+2022,22.0,PB,Paraíba,45.33,44.1,46.55,49.0,alerta
+2022,23.0,RJ,Rio de Janeiro,45.83,44.1,46.55,49.0,alerta
+2022,24.0,AC,Acre,46.36,44.1,46.55,49.0,alerta
+2022,25.0,RS,Rio Grande do Sul,47.88,44.1,46.55,49.0,acima do limite prudencial
+2022,26.0,MG,Minas Gerais,48.44,44.1,46.55,49.0,acima do limite prudencial
+2022,27.0,RN,Rio Grande do Norte,53.37,44.1,46.55,49.0,acima do limite máximo
+2023,1.0,DF,Distrito Federal,34.8,44.1,46.55,49.0,confortável
+2023,2.0,MA,Maranhão,36.57,44.1,46.55,49.0,confortável
+2023,3.0,MT,Mato Grosso,37.5,44.1,46.55,49.0,confortável
+2023,4.0,RO,Rondônia,38.23,44.1,46.55,49.0,confortável
+2023,5.0,ES,Espírito Santo,38.29,44.1,46.55,49.0,confortável
+2023,6.0,BA,Bahia,39.98,43.74,46.17,48.6,confortável
+2023,7.0,PI,Piauí,40.15,44.1,46.55,49.0,confortável
+2023,8.0,AM,Amazonas,40.17,44.1,46.55,49.0,confortável
+2023,9.0,AP,Amapá,41.72,44.1,46.55,49.0,confortável
+2023,10.0,PA,Pará,42.24,43.74,46.17,48.6,confortável
+2023,11.0,SP,São Paulo,42.33,44.1,46.55,49.0,confortável
+2023,12.0,SC,Santa Catarina,42.59,44.1,46.55,49.0,confortável
+2023,13.0,AL,Alagoas,43.01,44.1,46.55,49.0,atenção
+2023,14.0,GO,Goiás,43.23,43.74,46.17,48.6,atenção
+2023,14.0,PR,Paraná,43.23,44.1,46.55,49.0,atenção
+2023,16.0,SE,Sergipe,43.76,44.1,46.55,49.0,atenção
+2023,17.0,PE,Pernambuco,44.56,44.1,46.55,49.0,alerta
+2023,18.0,MS,Mato Grosso do Sul,44.64,44.1,46.55,49.0,alerta
+2023,19.0,CE,Ceará,44.73,44.1,46.55,49.0,alerta
+2023,20.0,TO,Tocantins,44.87,44.1,46.55,49.0,alerta
+2023,21.0,RS,Rio Grande do Sul,45.03,44.1,46.55,49.0,alerta
+2023,22.0,RJ,Rio de Janeiro,47.47,44.1,46.55,49.0,acima do limite prudencial
+2023,23.0,PB,Paraíba,47.88,44.1,46.55,49.0,acima do limite prudencial
+2023,24.0,AC,Acre,48.41,44.1,46.55,49.0,acima do limite prudencial
+2023,25.0,RR,Roraima,49.28,44.1,46.55,49.0,acima do limite máximo
+2023,26.0,MG,Minas Gerais,51.37,44.1,46.55,49.0,acima do limite máximo
+2023,27.0,RN,Rio Grande do Norte,56.94,44.1,46.55,49.0,acima do limite máximo
+2024,1.0,MA,Maranhão,31.04,44.1,46.55,49.0,confortável
+2024,2.0,ES,Espírito Santo,36.05,44.1,46.55,49.0,confortável
+2024,3.0,AL,Alagoas,36.08,44.1,46.55,49.0,confortável
+2024,4.0,RO,Rondônia,37.41,44.1,46.55,49.0,confortável
+2024,5.0,MT,Mato Grosso,37.78,44.1,46.55,49.0,confortável
+2024,6.0,AM,Amazonas,38.77,44.1,46.55,49.0,confortável
+2024,7.0,DF,Distrito Federal,39.57,44.1,46.55,49.0,confortável
+2024,8.0,SC,Santa Catarina,39.66,44.1,46.55,49.0,confortável
+2024,9.0,SE,Sergipe,40.37,44.1,46.55,49.0,confortável
+2024,10.0,PA,Pará,40.55,43.74,46.17,48.6,confortável
+2024,10.0,PE,Pernambuco,40.55,44.1,46.55,49.0,confortável
+2024,12.0,BA,Bahia,41.65,43.74,46.17,48.6,confortável
+2024,13.0,PI,Piauí,41.66,44.1,46.55,49.0,confortável
+2024,14.0,GO,Goiás,41.7,43.74,46.17,48.6,confortável
+2024,15.0,SP,São Paulo,42.19,44.1,46.55,49.0,confortável
+2024,16.0,PR,Paraná,42.71,44.1,46.55,49.0,confortável
+2024,17.0,AP,Amapá,43.51,44.1,46.55,49.0,atenção
+2024,18.0,CE,Ceará,43.54,44.1,46.55,49.0,atenção
+2024,19.0,RS,Rio Grande do Sul,43.72,44.1,46.55,49.0,atenção
+2024,20.0,MS,Mato Grosso do Sul,45.2,44.1,46.55,49.0,alerta
+2024,21.0,TO,Tocantins,46.32,44.1,46.55,49.0,alerta
+2024,22.0,RJ,Rio de Janeiro,46.76,44.1,46.55,49.0,acima do limite prudencial
+2024,23.0,AC,Acre,46.77,44.1,46.55,49.0,acima do limite prudencial
+2024,24.0,RR,Roraima,47.27,44.1,46.55,49.0,acima do limite prudencial
+2024,25.0,PB,Paraíba,48.27,44.1,46.55,49.0,acima do limite prudencial
+2024,26.0,MG,Minas Gerais,48.8,44.1,46.55,49.0,acima do limite prudencial
+2024,27.0,RN,Rio Grande do Norte,57.56,44.1,46.55,49.0,acima do limite máximo
+2025,1.0,MA,Maranhão,30.14,44.1,46.55,49.0,confortável
+2025,2.0,ES,Espírito Santo,35.41,44.1,46.55,49.0,confortável
+2025,3.0,MT,Mato Grosso,36.28,44.1,46.55,49.0,confortável
+2025,4.0,PI,Piauí,37.8,44.1,46.55,49.0,confortável
+2025,5.0,PA,Pará,38.07,43.74,46.17,48.6,confortável
+2025,6.0,AM,Amazonas,38.09,44.1,46.55,49.0,confortável
+2025,7.0,AP,Amapá,38.46,44.1,46.55,49.0,confortável
+2025,8.0,RO,Rondônia,38.49,44.1,46.55,49.0,confortável
+2025,9.0,SC,Santa Catarina,38.72,44.1,46.55,49.0,confortável
+2025,10.0,AL,Alagoas,38.77,44.1,46.55,49.0,confortável
+2025,11.0,GO,Goiás,39.96,43.74,46.17,48.6,confortável
+2025,12.0,BA,Bahia,40.36,43.74,46.17,48.6,confortável
+2025,13.0,CE,Ceará,40.92,44.1,46.55,49.0,confortável
+2025,14.0,SE,Sergipe,41.23,44.1,46.55,49.0,confortável
+2025,15.0,SP,São Paulo,41.29,44.1,46.55,49.0,confortável
+2025,16.0,PE,Pernambuco,41.31,44.1,46.55,49.0,confortável
+2025,17.0,DF,Distrito Federal,41.46,44.1,46.55,49.0,confortável
+2025,18.0,PR,Paraná,42.46,44.1,46.55,49.0,confortável
+2025,19.0,RS,Rio Grande do Sul,44.16,44.1,46.55,49.0,alerta
+2025,20.0,MS,Mato Grosso do Sul,44.2,44.1,46.55,49.0,alerta
+2025,21.0,TO,Tocantins,44.31,44.1,46.55,49.0,alerta
+2025,22.0,PB,Paraíba,44.74,44.1,46.55,49.0,alerta
+2025,23.0,RR,Roraima,44.8,44.1,46.55,49.0,alerta
+2025,24.0,RJ,Rio de Janeiro,45.74,44.1,46.55,49.0,alerta
+2025,25.0,AC,Acre,47.99,44.1,46.55,49.0,acima do limite prudencial
+2025,26.0,MG,Minas Gerais,48.22,44.1,46.55,49.0,acima do limite prudencial
+2025,27.0,RN,Rio Grande do Norte,56.41,44.1,46.55,49.0,acima do limite máximo
