@@ -1,0 +1,8 @@
+﻿ano,UF,metrica,fonte,status
+2025,SP,Receita_Corrente_Liquida,,ausente
+2025,SP,RCL_Ajustada,ReceitaCorrenteLiquidaAjustada | RCL ajustada | Valor,ok
+2025,SP,Despesa_Total_Pessoal,DespesaComPessoalTotal | DESPESA TOTAL COM PESSOAL | Valor,ok
+2025,SP,DTP_RCL,DespesaComPessoalTotal | DESPESA TOTAL COM PESSOAL | % sobre a RCL Ajustada,ok
+2025,SP,Limite_Alerta,LimiteDeAlertaDespesaComPessoalTotal | LIMITE DE ALERTA | % sobre a RCL Ajustada,ok
+2025,SP,Limite_Prudencial,LimitePrudencialDespesaComPessoalTotal | LIMITE PRUDENCIAL | % sobre a RCL Ajustada,ok
+2025,SP,Limite_Maximo,LimiteMaximoDespesaComPessoalTotal | LIMITE MÁXIMO | % sobre a RCL Ajustada,ok

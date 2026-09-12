@@ -1,0 +1,203 @@
+﻿exercicio,periodo,periodicidade,instituicao,cod_ibge,uf,co_poder,populacao,anexo,esfera,rotulo,coluna,cod_conta,conta,valor
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),8583436638.94
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),9184850756.83
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),9060962553.39
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),9113527871.44
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),9916914604.21
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),10058917324.23
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),9666328014.72
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),10146084540.62
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),10227181091.15
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),9966150445.19
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),10170504419.02
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),18660032041.43
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),124754890301.17
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b),DespesaComPessoalBruta,DESPESA BRUTA COM PESSOAL (I),29859834.32
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesaComPessoalAtivoBruta,Pessoal Ativo,4610756250.27
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5048508886.84
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesaComPessoalAtivoBruta,Pessoal Ativo,4979440880.16
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5018074251.37
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5749734877.58
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5831883573.52
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5282914945.67
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5739431286.77
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5871024887.35
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5633450845.61
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesaComPessoalAtivoBruta,Pessoal Ativo,5788955836.11
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesaComPessoalAtivoBruta,Pessoal Ativo,12149859159.74
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesaComPessoalAtivoBruta,Pessoal Ativo,71704035680.99
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b),DespesaComPessoalAtivoBruta,Pessoal Ativo,2229.5
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",3926612070.0
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4106379900.05
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4162206394.49
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4172659661.46
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4807644035.18
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4805254649.85
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4518951131.95
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4640789974.04
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4944622962.96
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4702164230.94
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",4860323147.64
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",10121894003.09
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),VencimentosVantagensEOutrasDespesasVariaveis,"Vencimentos, Vantagens e Outras Despesas Variáveis",59769502161.65
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,ObrigacoesPatronais,Obrigações Patronais,684144180.27
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,ObrigacoesPatronais,Obrigações Patronais,942128986.79
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,ObrigacoesPatronais,Obrigações Patronais,817234485.67
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,ObrigacoesPatronais,Obrigações Patronais,845414589.91
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,ObrigacoesPatronais,Obrigações Patronais,942090842.4
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,ObrigacoesPatronais,Obrigações Patronais,1026628923.67
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,ObrigacoesPatronais,Obrigações Patronais,763963813.72
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,ObrigacoesPatronais,Obrigações Patronais,1098641312.73
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,ObrigacoesPatronais,Obrigações Patronais,926401924.39
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,ObrigacoesPatronais,Obrigações Patronais,931286614.67
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,ObrigacoesPatronais,Obrigações Patronais,928632688.47
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,ObrigacoesPatronais,Obrigações Patronais,2027965156.65
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),ObrigacoesPatronais,Obrigações Patronais,11934533519.34
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b),ObrigacoesPatronais,Obrigações Patronais,2229.5
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,3972680388.67
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4136341869.99
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4081521673.23
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4095453620.07
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4167179726.63
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4227033750.71
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4383413069.05
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4406653253.85
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4356156203.8
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4332699599.58
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,4381548582.91
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,6510172881.69
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,53050854620.18
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b),DespesaComPessoalInativoEPensionistasBruta,Pessoal Inativo e Pensionistas,29857604.82
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3191404316.86
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3392077722.57
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3295115247.15
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3322325141.15
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3392076304.43
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3437364567.76
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3595789326.22
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3619138463.47
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3535197749.54
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3545879990.41
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",3586586321.72
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",5329682630.91
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",43242637782.19
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b),AposentadoriasReservaEReformas,"Aposentadorias, Reserva e Reformas",29857604.82
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesasPensoesInativosEPensionistas,Pensões,781276071.81
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesasPensoesInativosEPensionistas,Pensões,744264147.42
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesasPensoesInativosEPensionistas,Pensões,786406426.08
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesasPensoesInativosEPensionistas,Pensões,773128478.92
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesasPensoesInativosEPensionistas,Pensões,775103422.2
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesasPensoesInativosEPensionistas,Pensões,789669182.95
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesasPensoesInativosEPensionistas,Pensões,787623742.83
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesasPensoesInativosEPensionistas,Pensões,787514790.38
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesasPensoesInativosEPensionistas,Pensões,820958454.26
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesasPensoesInativosEPensionistas,Pensões,786819609.17
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesasPensoesInativosEPensionistas,Pensões,794962261.19
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesasPensoesInativosEPensionistas,Pensões,1180490250.78
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesasPensoesInativosEPensionistas,Pensões,9808216837.99
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1038023834.96
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1162716315.76
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1195364018.53
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1152106436.57
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1161468763.64
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1223872921.83
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1173495416.0
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1284185925.02
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1286372235.28
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1241986432.0
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1151733045.77
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),1956447388.14
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),15027772733.5
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b),DespesaComPessoalNaoComputada,DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II),29857604.82
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,4603199.34
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,13343285.26
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,9454633.68
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,8887822.13
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,5795257.64
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,11659530.01
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,10323858.59
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,6870461.76
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,4240830.22
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,5307287.14
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,5448620.54
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,32582885.48
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesaComPessoalNaoComputadaIndenizacaoDemissaoVoluntaria,Indenizações por Demissão e Incentivos à Demissão Voluntária,118517671.79
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,33667416.04
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,36450689.35
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,85310824.94
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,54185922.8
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,49461051.9
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,45793196.88
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,61742155.08
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,36255098.18
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,42627270.34
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,45326078.73
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,23663057.66
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,12704784.32
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesaComPessoalNaoComputadaExerciciosAnterioresAoPeriodoDaApuracao,Despesas de Exercícios Anteriores de Período Anterior ao da Apuração,527187546.22
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,937987381.89
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1003539779.21
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1004372940.1
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,959380379.66
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,996821278.93
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1070322583.78
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1024054257.97
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1141867785.01
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1093193338.48
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1067066562.8
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1024737601.88
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,1610576590.68
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,12933920480.39
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b),DespesaComPessoalNaoComputadaInativosEPensionistasComRecursosVinculados,Inativos e Pensionistas com Recursos Vinculados,29857604.82
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",1856148.15
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",2002099.02
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",2258518.97
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",4024925.77
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",4255519.06
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",3310248.09
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",4228396.5
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",2174669.9
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",3317300.62
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",1516999.31
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",3475689.33
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",15617716.27
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),ParcelaDedutivelReferenteAoPisoSalarialDoEnfermeiroTecnicoDeEnfermagemAuxiliarDeEnfermagemEParteira,"Parcela dedutível referente ao piso salarial do Enfermeiro, Técnico de Enfermagem, Auxiliar de Enfermagem e Parteira (ADCT, art. 38, §2º)",48038230.99
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,59909689.54
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,107380462.92
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,93967100.84
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,125627386.21
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,105135656.11
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,92787363.07
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,73146747.86
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,97017910.17
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,142993495.62
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,122769504.02
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,94408076.36
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,284965411.39
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesasNaoComputadasOutrasDeducoesConstitucionaisOuLegais,Outras Deduções Constitucionais ou Legais,1400108804.11
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-11>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),7545412803.98
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-10>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),8022134441.07
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-9>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),7865598534.86
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-8>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),7961421434.87
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-7>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),8755445840.57
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-6>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),8835044402.4
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-5>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),8492832598.72
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-4>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),8861898615.6
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-3>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),8940808855.87
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-2>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),8724164013.19
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR-1>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),9018771373.25
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,<MR>,DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),16703584653.29
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,TOTAL (ÚLTIMOS 12 MESES) (a),DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),109727117567.67
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,INSCRITAS EM RESTOS A PAGAR NÃO PROCESSADOS (b),DespesaComPessoalLiquida,DESPESA LÍQUIDA COM PESSOAL (III) = (I - II),2229.5
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,Valor,ReceitaCorrenteLiquidaLimiteLegal,RECEITA CORRENTE LIQUIDA - RCL (IV),266221395322.55
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,Valor,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais,"(-) Transferências Obrigatórias da União Relativas às Emendas Individuais (art. 166-A, §1º, da CF)",200161245.18
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,Valor,TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada,"(-) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF)",259871497.0
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,Valor,ReceitaCorrenteLiquidaAjustada,= RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (V),265761362580.37
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,Valor,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (VI) = (IIIa + IIIb),109727119797.17
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,% sobre a RCL Ajustada,DespesaComPessoalTotal,DESPESA TOTAL COM PESSOAL - DTP (VI) = (IIIa + IIIb),41.29
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,Valor,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VII) (incisos I, II e III, art. 20 da LRF)",130223067664.38
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,% sobre a RCL Ajustada,LimiteMaximoDespesaComPessoalTotal,"LIMITE MÁXIMO (VII) (incisos I, II e III, art. 20 da LRF)",49.0
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,Valor,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (VIII) = (0,95 x VII) (parágrafo único do art. 22 da LRF)",123711914281.16
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,% sobre a RCL Ajustada,LimitePrudencialDespesaComPessoalTotal,"LIMITE PRUDENCIAL (VIII) = (0,95 x VII) (parágrafo único do art. 22 da LRF)",46.55
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,Valor,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (IX) = (0,90 x VII) (inciso II do §1º do art. 59 da LRF)",117200760897.94
+2025,3,Q,Governo do Estado de São Paulo,35,SP,E,46024937,RGF-Anexo 01,E,Padrão,% sobre a RCL Ajustada,LimiteDeAlertaDespesaComPessoalTotal,"LIMITE DE ALERTA (IX) = (0,90 x VII) (inciso II do §1º do art. 59 da LRF)",44.1
