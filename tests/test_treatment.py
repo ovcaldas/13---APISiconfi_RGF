@@ -21,7 +21,7 @@ def test_mapping_uses_declared_percentage():
         {**common, "cod_conta": "LimitePrudencialDespesaComPessoalTotal", "conta": "LIMITE PRUDENCIAL", "coluna": "% sobre a RCL Ajustada", "valor": "46,55"},
         {**common, "cod_conta": "LimiteMaximoDespesaComPessoalTotal", "conta": "LIMITE MÁXIMO", "coluna": "% sobre a RCL Ajustada", "valor": "49,00"},
     ])
-    base, _ = build_treated(raw)
+    base, _ = build_treated(raw, save=False)
     row = base.query("ano == 2025 and UF == 'SP'").iloc[0]
     assert row["DTP_RCL"] == 39.5
     assert row["DTP_RCL_Calculado"] == 40.0

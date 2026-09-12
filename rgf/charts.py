@@ -76,10 +76,13 @@ def generate_charts(base: pd.DataFrame, indicators: pd.DataFrame) -> None:
     fig, ax = plt.subplots(figsize=(10, 9)); ax.barh(ordered["UF"], ordered["score_fiscal"], color=COLORS["navy"]); ax.set_xlim(0, 100); ax.set_xlabel("Score fiscal (0–100; maior é melhor)"); ax.set_title("Ranking do score fiscal — 2015–2025")
     _save(fig, "07_ranking_score_fiscal.png")
 
-    comparison = base.assign(periodo_analise=np.where(base["ano"] <= 2019, "2015–2019", "2020–2025")).pivot_table(index="UF", columns="periodo_analise", values="DTP_RCL", aggfunc="mean").dropna()
-    comparison = comparison.sort_values("2020–2025")
+    comparison = base.assign(periodo_analise=np.where(base["ano"] <= 2019, "pre_2020", "from_2020")).pivot_table(index="UF", columns="periodo_analise", values="DTP_RCL", aggfunc="mean")
+    comparison = comparison.reindex(columns=["pre_2020", "from_2020"]).dropna().sort_values("from_2020")
     y = np.arange(len(comparison)); fig, ax = plt.subplots(figsize=(11, 10))
-    ax.scatter(comparison["2015–2019"], y, label="2015–2019", color="#7A8EA3"); ax.scatter(comparison["2020–2025"], y, label="2020–2025", color=COLORS["navy"])
-    for i, row in enumerate(comparison.itertuples()): ax.plot([getattr(row, "_1"), getattr(row, "_2")], [i, i], color="#C7CDD3", zorder=0)
+    if comparison.empty:
+        ax.text(.5, .5, "Dados insuficientes para comparar os dois períodos", ha="center", va="center", transform=ax.transAxes)
+    else:
+        ax.scatter(comparison["pre_2020"], y, label="2015–2019", color="#7A8EA3"); ax.scatter(comparison["from_2020"], y, label="2020–2025", color=COLORS["navy"])
+        for i, (_, row) in enumerate(comparison.iterrows()): ax.plot([row["pre_2020"], row["from_2020"]], [i, i], color="#C7CDD3", zorder=0)
     ax.set_yticks(y, comparison.index); ax.set_xlabel("Média DTP/RCL (%)"); ax.set_title("Comparação das médias: 2015–2019 × 2020–2025"); ax.legend()
     _save(fig, "08_comparacao_periodos.png")

@@ -99,7 +99,8 @@ def classify(row: pd.Series) -> str:
     return "confortável"
 
 
-def build_treated(raw: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+def build_treated(raw: pd.DataFrame, save: bool = True) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Consolida uma linha por UF/ano; ``save=False`` evita efeitos colaterais em testes."""
     expected = {"exercicio", "uf", "cod_conta", "conta", "coluna", "valor"}
     missing = expected - set(raw.columns)
     if missing:
@@ -154,8 +155,8 @@ def build_treated(raw: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
     treated["ranking_ano"] = treated.groupby("ano")["DTP_RCL"].rank(method="min", ascending=True)
 
     quality = pd.DataFrame(mapping_audit)
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    treated.to_csv(DATA_DIR / "rgf_estados_2015_2025_tratado.csv", index=False, encoding="utf-8-sig")
-    quality.to_csv(DATA_DIR / "auditoria_mapeamento.csv", index=False, encoding="utf-8-sig")
+    if save:
+        DATA_DIR.mkdir(parents=True, exist_ok=True)
+        treated.to_csv(DATA_DIR / "rgf_estados_2015_2025_tratado.csv", index=False, encoding="utf-8-sig")
+        quality.to_csv(DATA_DIR / "auditoria_mapeamento.csv", index=False, encoding="utf-8-sig")
     return treated, quality
-
